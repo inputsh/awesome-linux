@@ -184,7 +184,7 @@ If you used Windows and decided to switch to Linux, this course should help you 
 
 > The KDE® Community is an international technology team dedicated to creating a free and user-friendly computing experience, offering an advanced graphical desktop, a wide variety of applications for communication, work, education and entertainment and a platform to easily build new applications upon. We have a strong focus on finding innovative solutions to old and new problems, creating a vibrant atmosphere open for experimentation.
 
-![screenshot](https://www.kde.org/workspaces/plasmadesktop/screenshots/general-desktop.png)
+![screenshot](https://www.kde.org/announcements/plasma5.0/screenshots/desktop.png)
 
 #### [Xfce](http://www.xfce.org/)
 

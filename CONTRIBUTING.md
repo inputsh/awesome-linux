@@ -9,7 +9,10 @@ If you want to contribute to this list, feel free to do so by following these si
 * [Learning Resources section](#learning-resources-section)
   * [Books subsection](#books-subsection)
   * [Courses subsection](#courses-subsection)
-  * [Websites subsections](#websites-subsections)
+* [X Desktop Environments section](#x-desktop-environemnts-section)
+* [X Windows Managers section](#x-windows-managers-section)
+* [Applications section](#applications-section)
+* [Useful Websites subsections](#useful-websites-section)
 * [Adding a new category](#adding-a-new-category)
 
 ## Make sure you agree to the license
@@ -53,7 +56,51 @@ Short personal description. - [@your-github-profile](link to your GitHub profile
 
 ```
 
-### Websites subsection
+## X Desktop Environments section
+
+The screenshots are borrowed from their official websites or from Wikipedia.
+
+Only four biggest ones will have its own subsection and a screenshot. If you want to add new X Desktop Environment, add them in the Other Desktop Environments subsection by following this syntax:
+
+```gfm
+* [Name](link) - short description copied from Arch Wiki.
+```
+
+Be sure to add them in the alphabetical order.
+
+## X Windows Managers
+
+Follow this syntax:
+
+```gfm
+* [Name](link) - Short description
+```
+
+There are currently no proposed rules for adding content to this section because I'm not very experienced in using them. If you want propose some rule, feel free to do so by creating an issue.
+
+## Applications
+
+Added applications should be regularly updated. If the application's last update was over 6 month ago, it will not be added. They should also be usable and fairly stable at the time of adding them.
+
+To add applications to other GUI-based applications sub-section, follow this guide:
+
+```gfm
+* [name](official website) (**desktop environment**) - Short description
+```
+
+where `official website` should be replaced with the link to the application (link to the repo containing the code if the website doesn't exist) and `desktop environment` should be replaced with the DE they're supposed to work with the best.
+
+Once there is at least five applications specifically designed for other desktop environments, their subsection will be added.
+
+To add applications to any other subsection, follow this syntax:
+
+```gfm
+* [name](official website) - Short description
+```
+
+Again, you should link to the code repo if the website doesn't exist.
+
+## Useful Websites section
 
 To add new content to the websites section, follow this syntax:
 

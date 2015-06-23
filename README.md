@@ -19,8 +19,21 @@
 * [Learning Resources](#learning-resources)
   * [Books](#books)
   * [Courses](#courses)
-  * [Useful Websites](#useful-websites)
-  * [Other Useful Awesome Lists](#other-useful-awesome-lists)
+* [X Desktop Environments](#x-desktop-environments)
+  * [GNOME](#gnome)
+  * [KDE](#kde)
+  * [Xfce](#xfce)
+  * [LXDE](#lxde)
+  * [Other Desktop Environments](#other-desktop-environments)
+* [X Windows Managers](#x-windows-managers)
+* [Applications](#applications)
+  * [Console-based Applications](#console-based-applications)
+  * [GUI-based Applications](#gui-based-applications)
+    * [GNOME-based](#gnome-based)
+    * [KDE-based](#kde-based)
+    * [Other](#other)
+* [Useful Websites](#useful-websites)
+* [Other Useful Awesome Lists](#other-useful-awesome-lists)
 * [License](#license)
 
 ## Distributions
@@ -143,7 +156,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 _Empty for now._
 
-To add new content to this page, please refer to `CONTRIBUTING.md` file.
+To add new content to this section, please refer to `CONTRIBUTING.md` file.
 
 ### Courses
 
@@ -155,7 +168,86 @@ Organized by the Linux Foundation, it's a great free course to learn basics abou
 
 If you used Windows and decided to switch to Linux, this course should help you to find their alternatives. It's pretty short and you can finish it in a day. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
 
-### Useful Websites
+## X Desktop Environments
+
+> You cannot talk about a unified Linux look because there is no such thing.
+
+![relevant XKCD](http://imgs.xkcd.com/comics/standards.png)
+
+#### [GNOME](https://www.gnome.org)
+
+> GNOME 3 is an easy and elegant way to use your computer. It is designed to put you in control and bring freedom to everybody. GNOME 3 is developed by the GNOME community, a diverse, international group of contributors that is supported by an independent, non-profit foundation.
+
+![screenshot](https://www.gnome.org/wp-content/uploads/2015/03/activities-overview-3.16-940x529.png)
+
+#### [KDE](https://www.kde.org)
+
+> The KDE® Community is an international technology team dedicated to creating a free and user-friendly computing experience, offering an advanced graphical desktop, a wide variety of applications for communication, work, education and entertainment and a platform to easily build new applications upon. We have a strong focus on finding innovative solutions to old and new problems, creating a vibrant atmosphere open for experimentation.
+
+![screenshot](https://www.kde.org/workspaces/plasmadesktop/screenshots/general-desktop.png)
+
+#### [Xfce](http://www.xfce.org/)
+
+> Xfce is a lightweight desktop environment for UNIX-like operating systems. It aims to be fast and low on system resources, while still being visually appealing and user friendly.
+
+![screenshot](https://upload.wikimedia.org/wikipedia/commons/7/71/Xfce-4.4.png)
+
+#### [LXDE](http://lxde.org/)
+
+>  The "Lightweight X11 Desktop Environment" is an extremely fast-performing and energy-saving desktop environment. Maintained by an international community of developers, it comes with a beautiful interface, multi-language support, standard keyboard short cuts and additional features like tabbed file browsing. LXDE uses less CPU and less RAM than other environments. It is especially designed for cloud computers with low hardware specifications, such as netbooks, mobile devices (e.g. MIDs) or older computers. LXDE can be installed on many Linux distributions including Debian, Fedora, OpenSUSE and Ubuntu. It is the standard for Knoppix and lubuntu. LXDE also runs on OpenSolaris and BSD. LXDE provides a fast desktop experience; connecting easily with applications in the cloud. LXDE supports a wealth of programs that can be installed locally with Linux systems. The source code of LXDE is licensed partly under the terms of the GNU General Public License and partly under the LGPL.
+
+![screenshot](https://upload.wikimedia.org/wikipedia/commons/4/4c/LXDE_desktop_full.png)
+
+#### Other Desktop Environments
+
+* [Cinnamon](http://cinnamon.linuxmint.com/) - Cinnamon strives to provide a traditional user experience. Cinnamon is a fork of GNOME 3.
+* [Enlightenment](https://www.enlightenment.org/) - The Enlightenment desktop shell provides an efficient window manager based on the Enlightenment Foundation Libraries along with other essential desktop components like a file manager, desktop icons and widgets. It supports themes, while still being capable of performing on older hardware or embedded devices.
+* [LXQt](http://lxqt.org/) - LXQt is the Qt port and the upcoming version of LXDE, the Lightweight Desktop Environment. It is the product of the merge between the LXDE-Qt and the Razor-qt projects: A lightweight, modular, blazing-fast and user-friendly desktop environment.
+* [MATE](http://www.mate-desktop.org/) - Mate provides an intuitive and attractive desktop to Linux users using traditional metaphors. MATE is a fork of GNOME 2.
+* [Pantheon](https://elementary.io) - Pantheon is the default desktop environment originally created for the elementary OS distribution. It is written from scratch using Vala and the GTK3 toolkit. With regards to usability and appearance, the desktop has some similarities with GNOME Shell and Mac OS X.
+* [Unity](http://unity.ubuntu.com/) - Unity is a shell for GNOME designed by Canonical for Ubuntu.
+
+## X Windows Managers
+
+_Empty for now._
+
+Currently in the process of asking [@dhamaniasad](https://github.com/dhamaniasad) to allow me to include his content.
+
+## Applications
+
+The list of awesome Linux applications that you should be using.
+
+### Console-based Applications
+
+_Empty for now._
+
+To add new content to this page, please refer to `CONTRIBUTING.md` file.
+
+### GUI-based Applications
+
+_Empty for now._
+
+To add new content to this page, please refer to `CONTRIBUTING.md` file.
+
+#### GNOME-based
+
+_Empty for now._
+
+To add new content to this page, please refer to `CONTRIBUTING.md` file.
+
+#### KDE-based
+
+_Empty for now._
+
+To add new content to this page, please refer to `CONTRIBUTING.md` file.
+
+#### Based on other desktop environments
+
+_Empty for now._
+
+To add new content to this page, please refer to `CONTRIBUTING.md` file.
+
+## Useful Websites
 
 #### [Compute Freely](http://computefreely.org/)
 
@@ -183,7 +275,7 @@ Although its design is outdated, Linux.org is (probably) the most popular forum 
 
 > Our goal is to further the open source way by sharing the open source movement. Our community of readers is made up of those who believe that open participation and sharing can tackle the business, social, environmental, and technological challenges facing us today.
 
-### Other Useful Awesome Lists
+## Other Useful Awesome Lists
 
 * [awesome](https://github.com/sindresorhus/awesome)
 * [awesome lists for programming languages](https://github.com/sindresorhus/awesome#programming-languages)

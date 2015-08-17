@@ -237,9 +237,10 @@ The list of awesome Linux applications that you should be using.
 
 ### Console-based Applications
 
-_Empty for now._
-
-To add new content to this page, please refer to `CONTRIBUTING.md` file.
+* [git](https://git-scm.com/) -  Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows.
+* [vim](http://vim.org) - Vim is an advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set.
+* [nano](http://www.nano-editor.org) - GNU nano (or nano) is a text editor which aims to introduce a simple interface and intuitive command options to console based text editing. nano supports features including colorized syntax highlighting, DOS/Mac file type conversions, spellchecking and UTF-8 encoding. nano opened with an empty buffer typically occupies under 1.5 MB of resident memory.
+* [vtop](https://parall.ax/vtop) - Command-line tools like “top” make it difficult to see CPU usage across multi-process applications (like Apache and Chrome), spikes over time, and memory usage. Vtop is a free and open source activity monitor for the command line. It’s written in node.js and can be easily extended.
 
 ### GUI-based Applications
 
@@ -249,9 +250,10 @@ To add new content to this page, please refer to `CONTRIBUTING.md` file.
 
 #### GNOME-based
 
-_Empty for now._
+* [Gedit](https://wiki.gnome.org/Apps/Gedit) - Gedit is the GNOME text editor. While aiming at simplicity and ease of use, gedit is a powerful general purpose text editor.  
+* [Gnome Builder](https://wiki.gnome.org/Apps/Builder) - Builder is a new IDE for GNOME that is focused on bringing the power of our platform to more developers than ever before. It is currently under heavy development and needs your help to become a success.
 
-To add new content to this page, please refer to `CONTRIBUTING.md` file.
+for general gnome apps, visit: https://wiki.gnome.org/Apps
 
 #### KDE-based
 
@@ -271,6 +273,8 @@ To add new content to this page, please refer to `CONTRIBUTING.md` file.
 * [PacmanXG](http://almin-soft.ru/index.php?programmy/pacmanxg/tags/pacmanxg) (Arch) - GUI front-end for pacman. Depends on neither GTK+ nor Qt, just X11. 
 * [pirut](http://fedoraproject.org/wiki/Tools/pirut) (Fedora) - pirut provides a set of graphical tools for managing software.
 * [YaST](https://en.opensuse.org/YaST_Software_Management) (openSUSE) - YaST is the main package management tool on openSUSE.
+* [Synaptics](http://www.nongnu.org/synaptic/) (Debian and .deb users) - Synaptic is a graphical package management program for apt. It provides the same features as the apt-get command line utility with a GUI front-end based on Gtk+.
+* [YumEx](https://fedorahosted.org/yumex/) (Fedora) - YumEx is a GUI for the dnf package manager, it is written in Python and is using the PyGTK toolkit for GUI Components.
 
 ## Useful Websites
 

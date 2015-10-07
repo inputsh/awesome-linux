@@ -13,6 +13,7 @@
     * [CentOS](#centos)
     * [Debian GNU/Linux](#debian-gnulinux)
     * [Mageia](#mageia)
+    * [Manjaro](#manjaro)
     * [openSUSE](#openSUSE)
   * [Advanced](#advanced)
     * [Arch Linux](#arch-linux)
@@ -126,6 +127,18 @@ Distributions are organized into three different categories: for **beginners**, 
 **Screenshot:**
 
 ![default look](http://distrowatch.com/images/cgfjoewdlbc/mageia.png)
+
+#### [Manjaro](https://manjaro.github.io/)
+
+> Manjaro Linux, or simply Manjaro, is a Linux distribution, based on Arch Linux, which utilizes the Xfce desktop environment, a rolling release update model, and the pacman package manager.
+
+**Latest version:** Not applicable (Rolling Release system)
+
+**Default Desktop Environment:** XFCE, KDE
+
+**Screenshot:**
+
+![default look](http://distrowatch.com/images/cgfjoewdlbc/manjaro.png)
 
 #### [openSUSE](http://www.opensuse.org/)
 

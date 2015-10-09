@@ -46,7 +46,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 #### [elementary OS](http://elementary.io/)
 
-> elementary OS is a Linux distribution based on Ubuntu. It makes use of a desktop with its own shell named Pantheon, and is deeply integrated with other elementary OS applications like Plank (a dock), Midori (the default web browser) and Scratch (a simple text editor). This distribution uses Gala as its window manager, which is based on Mutter.
+> elementary OS is an Ubuntu-based desktop distribution. Some of its more interesting features include a custom desktop environment called Pantheon and many custom apps including Photos, Music, Videos, Calendar, Terminal, Files, and more. It also comes with some familiar apps like the Midori web browser and Geary mail.
 
 **Latest version:** elementary OS Freya (0.3)
 
@@ -56,7 +56,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 #### [Fedora](https://getfedora.org/)
 
-> Fedora (formerly Fedora Core) is an operating system based on the Linux kernel, developed by the community-supported Fedora Project and sponsored by Red Hat. Fedora contains software distributed under a free and open source license and aims to be on the leading edge of such technologies.
+> Fedora (formerly Fedora Core) is a Linux distribution developed by the community-supported Fedora Project and owned by Red Hat. Fedora contains software distributed under a free and open-source license and aims to be on the leading edge of such technologies. Fedora has a reputation for focusing on innovation, integrating new technologies early on and working closely with upstream Linux communities. The default desktop in Fedora is the GNOME desktop environment and the default interface is the GNOME Shell. Other desktop environments, including KDE, Xfce, LXDE, MATE and Cinnamon, are available. Fedora Project also distributes custom variations of Fedora called Fedora spins. These are built with specific sets of software packages, offering alternative desktop environments or targeting specific interests such as gaming, security, design, scientific computing and robotics.
 
 **Latest version:** Fedora Twenty Two (22)
 
@@ -68,7 +68,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 #### [Linux Mint](http://linuxmint.com/)
 
-> Linux distribution based on Ubuntu and Debian, with an alternative Linux Mint Debian Edition (LMDE) based purely on Debian. Mint provides full out-of-the-box multimedia support by including some proprietary software such as Adobe Flash.
+> Linux Mint is an Ubuntu-based distribution whose goal is to provide a more complete out-of-the-box experience by including browser plugins, media codecs, support for DVD playback, Java and other components. It also adds a custom desktop and menus, several unique configuration tools, and a web-based package installation interface. Linux Mint is compatible with Ubuntu software repositories.
 
 **Latest version:** Rebecca (17.1)
 
@@ -80,7 +80,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 #### [Ubuntu](http://www.ubuntu.com/)
 
-> Debian-based Linux operating system, with Unity as its default desktop environment. It is based on free software and named after the Southern African philosophy of ubuntu (literally, "human-ness"), which often is translated as "humanity towards others" or "the belief in a universal bond of sharing that connects all humanity".
+> Ubuntu is a complete desktop Linux operating system, freely available with both community and professional support. The Ubuntu community is built on the ideas enshrined in the Ubuntu Manifesto: that software should be available free of charge, that software tools should be usable by people in their local language and despite any disabilities, and that people should have the freedom to customise and alter their software in whatever way they see fit. "Ubuntu" is an ancient African word, meaning "humanity to others". The Ubuntu distribution brings the spirit of Ubuntu to the software world.
 
 **Latest version:** Ubuntu 15.04 (Vivid Vervet)
 
@@ -94,7 +94,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 #### [CentOS](https://www.centos.org/)
 
-> CentOS (abbreviated from Community Enterprise Operating System) is a Linux distribution that attempts to provide a free, enterprise-class, community-supported computing platform which aims to be functionally compatible with its upstream source, Red Hat Enterprise Linux (RHEL). In January 2014, CentOS announced the official joining with Red Hat while staying independent from RHEL, under a new CentOS governing board.
+> CentOS as a group is a community of open source contributors and users. Typical CentOS users are organisations and individuals that do not need strong commercial support in order to achieve successful operation. CentOS is 100% compatible rebuild of the Red Hat Enterprise Linux, in full compliance with Red Hat's redistribution requirements. CentOS is for people who need an enterprise class operating system stability without the cost of certification and support.
 
 **Latest version:** CentOS 7.1
 
@@ -106,7 +106,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 #### [Debian GNU/Linux](https://www.debian.org/)
 
-> Unix-like computer operating system and a Linux distribution that is composed entirely of free and open-source software, most of which is under the GNU General Public License, and packaged by a group of individuals known as the Debian project. Currently, the Debian project offers three branches named "stable", "testing" and "unstable".)
+> The Debian Project is an association of individuals who have made common cause to create a free operating system. This operating system is called Debian GNU/Linux, or simply Debian for short. Debian systems currently use the Linux kernel. [...] Debian comes with over 50,000 packages (precompiled software that is bundled up in a nice format for easy installation on your machine) - all of it free. It's a bit like a tower. At the base is the kernel. On top of that are all the basic tools. Next is all the software that you run on the computer. At the top of the tower is Debian -- carefully organizing and fitting everything so it all works together.
 
 **Latest version:** Debian Jessie (8.0)
 
@@ -118,7 +118,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 #### [Mageia](http://www.mageia.org/)
 
-> French national Linux computer operating system, distributed as free and open source software. It is forked from the Mandriva Linux distribution. The first release of the software distribution, Mageia 1, took place in June 2011.
+> Mageia is a fork of Mandriva Linux formed in September 2010 by former employees and contributors to the popular French Linux distribution. Unlike Mandriva, which is a commercial entity, the Mageia project is a community project and a non-profit organisation whose goal is to develop a free Linux-based operating system.
 
 **Latest version:** Mageia 5
 
@@ -130,7 +130,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 #### [Manjaro](https://manjaro.github.io/)
 
-> Manjaro Linux, or simply Manjaro, is a Linux distribution, based on Arch Linux, which utilizes the Xfce desktop environment, a rolling release update model, and the pacman package manager.
+> Manjaro Linux is a fast, user-friendly, desktop-oriented operating system based on Arch Linux. Key features include intuitive installation process, automatic hardware detection, stable rolling-release model, ability to install multiple kernels, special Bash scripts for managing graphics drivers and extensive desktop configurability. Manjaro Linux offers Xfce as the core desktop options, as well as a minimalist Net edition for more advanced users. Community-supported GNOME 3/Cinnamon and KDE flavours are available. Users also benefit from the supportive and vibrant Manjaro community forum.
 
 **Latest version:** Not applicable (Rolling Release system)
 
@@ -142,7 +142,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 #### [openSUSE](http://www.opensuse.org/)
 
-> General-purpose operating system built on top of the Linux kernel. It is developed by the community-supported openSUSE Project and sponsored by SUSE and a number of other companies. On 4 November 2003, Novell announced the acquisition of SuSE Linux AG at a price of US$210 million. After Novell acquired SUSE Linux in January 2004, the company used openSUSE as a logo, but typically is referred to as OpenSuse by contemporary technical publications. Novell decided to release the SUSE Linux Professional product as a 100% open source project. In 2011, The Attachmate Group acquired Novell and split Novell and SUSE into two autonomous subsidiary companies. SUSE offers products and services around SUSE Linux Enterprise—their commercial offering that is based on openSUSE Linux.
+> The openSUSE project is a community program sponsored by SUSE Linux and other companies. Promoting the use of Linux everywhere, this program provides free, easy access to openSUSE, a complete Linux distribution. The openSUSE project has three main goals: make openSUSE the easiest Linux for anyone to obtain and the most widely used Linux distribution; leverage open source collaboration to make openSUSE the world's most usable Linux distribution and desktop environment for new and experienced Linux users; dramatically simplify and open the development and packaging processes to make openSUSE the platform of choice for Linux developers and software vendors.
 
 **Latest version:** openSUSE 13.2
 
@@ -156,7 +156,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 #### [Arch Linux](https://www.archlinux.org/)
 
-> Linux distribution for i686 and x86-64 computers. It is composed predominantly of free and open-source software, and supports community involvement.
+> Arch Linux is an independently developed, i686- and x86_64-optimised Linux distribution targeted at competent Linux users. It uses 'pacman', its home-grown package manager, to provide updates to the latest software applications with full dependency tracking. Operating on a rolling release system, Arch can be installed from a CD image or via an FTP server. The default install provides a solid base that enables users to create a custom installation. In addition, the Arch Build System (ABS) provides a way to easily build new packages, modify the configuration of stock packages, and share these packages with other users via the Arch Linux user repository.
 
 **Latest version:** Not applicable (Rolling Release system)
 

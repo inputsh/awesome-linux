@@ -21,7 +21,7 @@ Check out the `LICENSE` file and make sure you agree that you are comfortable wi
 
 ## Distributions section
 
-There will be no more distributions added to this section. For the sake of keeping this list short, only top 10 distributions from Distrowatch's list [for the last 12 months](http://distrowatch.com/dwres.php?resource=popularity) will be included. Also, to avoid personal opinions about them, the first paragraph from their Wikipedia pages are copied. If you think they're outdated or short, please go to their Wikipedia web page, edit the first paragraph and let me know.
+There will be no more distributions added to this section. For the sake of keeping this list short, only top 10 distributions from Distrowatch's list [for the last 12 months](http://distrowatch.com/dwres.php?resource=popularity) will be included. Also, to avoid personal opinions about them, the Distrowatch descriptions are copied. If you think they're outdated or short, please contact Distrowatch and let me know.
 
 ## Learning Resources section
 

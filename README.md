@@ -168,9 +168,11 @@ Distributions are organized into three different categories: for **beginners**, 
 
 ### Books
 
-_Empty for now._
+#### [The Linux Command Line](https://www.goodreads.com/book/show/11724436-the-linux-command-line) [4.34]
 
-To add new content to this section, please refer to `CONTRIBUTING.md` file.
+This is a great introduction to the Linux command line. It's also [freely available online](http://linuxcommand.org/tlcl.php). - [@4iar](https://github.com/4iar/)
+
+> You've experienced the shiny, point-and-click surface of your Linux computer—now dive below and explore its depths with the power of the command line.
 
 ### Courses
 
@@ -181,6 +183,11 @@ Organized by the Linux Foundation, it's a great free course to learn basics abou
 #### [Linux Alternatives to Windows Applications](https://www.udemy.com/linux-alternatives-for-windows-applications/?dtcode=nEiIHId38AHS) [Free]
 
 If you used Windows and decided to switch to Linux, this course should help you to find their alternatives. It's pretty short and you can finish it in a day. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
+
+#### [Learn Linux The Hard Way](https://nixsrv.com/llthw) [Free]
+
+This is a great guide for those who prefer a fast-paced introduction to the Linux command line. It's written in a similar style to Zed A. Shaw's Learn X The Hard Way. - [@4iar](https://github.com/4iar)
+
 
 ## X Desktop Environments
 

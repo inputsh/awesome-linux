@@ -168,9 +168,11 @@ Distributions are organized into three different categories: for **beginners**, 
 
 ### Books
 
-_Empty for now._
+#### [The Linux Command Line](https://www.goodreads.com/book/show/11724436-the-linux-command-line) [4.34]
 
-To add new content to this section, please refer to `CONTRIBUTING.md` file.
+This is a great introduction to the linux command line. It's also [freely available online](http://linuxcommand.org/tlcl.php). - [@4iar](https://github.com/4iar/)
+
+> You've experienced the shiny, point-and-click surface of your Linux computer—now dive below and explore its depths with the power of the command line.
 
 ### Courses
 

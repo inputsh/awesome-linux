@@ -143,10 +143,11 @@ Distributions are organized into three different categories: for **beginners**, 
 #### [openSUSE](http://www.opensuse.org/)
 
 > The openSUSE project is a community program sponsored by SUSE Linux and other companies. Promoting the use of Linux everywhere, this program provides free, easy access to openSUSE, a complete Linux distribution. The openSUSE project has three main goals: make openSUSE the easiest Linux for anyone to obtain and the most widely used Linux distribution; leverage open source collaboration to make openSUSE the world's most usable Linux distribution and desktop environment for new and experienced Linux users; dramatically simplify and open the development and packaging processes to make openSUSE the platform of choice for Linux developers and software vendors.
+It also offers a rolling release version called Tumbleweed for experienced users.
 
-**Latest version:** openSUSE 13.2
+**Latest version:** openSUSE 42.1
 
-**Default Desktop Environment:** KDE
+**Default Desktop Environment:** KDE, GNOME, XFCE, LXDE (Choose on installation)
 
 **Screenshot:**
 

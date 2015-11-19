@@ -205,6 +205,20 @@ It also offers a rolling release version called Tumbleweed for experienced users
 
 **Default Desktop Environment:** Not applicable (there's no default look)
 
+#### [Ubuntu Studio](http://ubuntustudio.org/)
+
+> Ubuntu Studio is a variant of Ubuntu aimed at the GNU/Linux audio, video and graphic enthusiast as well as professional. The distribution provides a collection of open-source applications available for multimedia creation. 
+
+**Speciality:** Multimedia creation
+
+**Latest version:** Ubuntu Studio 15.10
+
+**Default Desktop Environment:** Xfce
+
+**Screenshot:**
+
+![default look](http://distrowatch.com/images/cgfjoewdlbc/ubuntustudio.png)
+
 ## Learning Resources
 
 ### Books

@@ -17,6 +17,11 @@
     * [openSUSE](#opensuse)
   * [Advanced](#advanced)
     * [Arch Linux](#arch-linux)
+  * [Special Purpose](#special-purpose)
+    * [CoreOS](#coreos)
+    * [Kali Linux](#kali-linux)
+    * [Puppy Linux](#puppy-linux)
+    * [Ubuntu Studio](#ubuntu-studio)
 * [Learning Resources](#learning-resources)
   * [Books](#books)
   * [Courses](#courses)
@@ -167,19 +172,15 @@ It also offers a rolling release version called Tumbleweed for experienced users
 
 ### Special Purpose
 
-#### [Puppy Linux](http://puppylinux.org/)
+#### [CoreOS](https://coreos.com/)
 
-> Puppy Linux is yet another Linux distribution. What's different here is that Puppy is extraordinarily small, yet quite full-featured. Puppy boots into a ramdisk and, unlike live CD distributions that have to keep pulling stuff off the CD, it loads into RAM. This means that all applications start in the blink of an eye and respond to user input instantly. Puppy Linux has the ability to boot off a flash card or any USB memory device, CDROM, Zip disk or LS/120/240 Superdisk, floppy disks, internal hard drive. It can even use a multisession formatted CD-RW/DVD-RW to save everything back to the CD/DVD with no hard drive required at all. 
+> CoreOS is a Linux-based operating system for servers. Built from the ground up and designed primarily for the modern data centre, CoreOS provides specialist tools for making the system secure, reliable and up-to-date. Some of the more interesting features of the distribution include reliable updates and patches via FastPatch, a dashboard for managing rolling updates via CoreUpdate, a docker for packaging applications, as well as support for bare metal and many cloud providers. 
 
-**Speciality:** Low system requirements
+**Speciality:** Clusters
 
-**Latest version:** Puppy Linux 6.3
+**Latest version:** CoreOS 845.0.0
 
-**Default Desktop Environment:** Openbox
-
-**Screenshot:**
-
-![default look](http://img.linuxscreenshots.org/1280800/Puppy%20Linux%206.3/3.jpg)
+**Default Desktop Environment:** Not applicable (there's no default look)
 
 #### [Kali Linux](http://www.kali.org/)
 
@@ -195,15 +196,19 @@ It also offers a rolling release version called Tumbleweed for experienced users
 
 ![default look](http://distrowatch.com/images/cgfjoewdlbc/kali.png)
 
-#### [CoreOS](https://coreos.com/)
+#### [Puppy Linux](http://puppylinux.org/)
 
-> CoreOS is a Linux-based operating system for servers. Built from the ground up and designed primarily for the modern data centre, CoreOS provides specialist tools for making the system secure, reliable and up-to-date. Some of the more interesting features of the distribution include reliable updates and patches via FastPatch, a dashboard for managing rolling updates via CoreUpdate, a docker for packaging applications, as well as support for bare metal and many cloud providers. 
+> Puppy Linux is yet another Linux distribution. What's different here is that Puppy is extraordinarily small, yet quite full-featured. Puppy boots into a ramdisk and, unlike live CD distributions that have to keep pulling stuff off the CD, it loads into RAM. This means that all applications start in the blink of an eye and respond to user input instantly. Puppy Linux has the ability to boot off a flash card or any USB memory device, CDROM, Zip disk or LS/120/240 Superdisk, floppy disks, internal hard drive. It can even use a multisession formatted CD-RW/DVD-RW to save everything back to the CD/DVD with no hard drive required at all. 
 
-**Speciality:** Clusters
+**Speciality:** Low system requirements
 
-**Latest version:** CoreOS 845.0.0
+**Latest version:** Puppy Linux 6.3
 
-**Default Desktop Environment:** Not applicable (there's no default look)
+**Default Desktop Environment:** Openbox
+
+**Screenshot:**
+
+![default look](http://img.linuxscreenshots.org/1280800/Puppy%20Linux%206.3/3.jpg)
 
 #### [Ubuntu Studio](http://ubuntustudio.org/)
 

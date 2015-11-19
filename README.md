@@ -180,8 +180,6 @@ It also offers a rolling release version called Tumbleweed for experienced users
 
 **Latest version:** CoreOS 845.0.0
 
-**Default Desktop Environment:** Not applicable (there's no default look)
-
 #### [Kali Linux](http://www.kali.org/)
 
 > Kali Linux (formerly known as BackTrack) is a Debian-based distribution with a collection of security and forensics tools. It features timely security updates, support for the ARM architecture, a choice of four popular desktop environments, and seamless upgrades to newer versions. 
@@ -189,12 +187,6 @@ It also offers a rolling release version called Tumbleweed for experienced users
 **Speciality:** Penetration testing
 
 **Latest version:** Kali Linux 2.0
-
-**Default Desktop Environment:** GNOME
-
-**Screenshot:**
-
-![default look](http://distrowatch.com/images/cgfjoewdlbc/kali.png)
 
 #### [Puppy Linux](http://puppylinux.org/)
 
@@ -204,12 +196,6 @@ It also offers a rolling release version called Tumbleweed for experienced users
 
 **Latest version:** Puppy Linux 6.3
 
-**Default Desktop Environment:** Openbox
-
-**Screenshot:**
-
-![default look](http://img.linuxscreenshots.org/1280800/Puppy%20Linux%206.3/3.jpg)
-
 #### [Ubuntu Studio](http://ubuntustudio.org/)
 
 > Ubuntu Studio is a variant of Ubuntu aimed at the GNU/Linux audio, video and graphic enthusiast as well as professional. The distribution provides a collection of open-source applications available for multimedia creation. 
@@ -217,12 +203,6 @@ It also offers a rolling release version called Tumbleweed for experienced users
 **Speciality:** Multimedia creation
 
 **Latest version:** Ubuntu Studio 15.10
-
-**Default Desktop Environment:** Xfce
-
-**Screenshot:**
-
-![default look](http://distrowatch.com/images/cgfjoewdlbc/ubuntustudio.png)
 
 ## Learning Resources
 

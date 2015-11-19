@@ -14,7 +14,7 @@
     * [Debian GNU/Linux](#debian-gnulinux)
     * [Mageia](#mageia)
     * [Manjaro](#manjaro)
-    * [openSUSE](#openSUSE)
+    * [openSUSE](#opensuse)
   * [Advanced](#advanced)
     * [Arch Linux](#arch-linux)
 * [Learning Resources](#learning-resources)
@@ -164,6 +164,22 @@ It also offers a rolling release version called Tumbleweed for experienced users
 **Default Desktop Environment:** Not applicable (there's no default Desktop environment)
 
 **Screenshot:** Not applicable (there's no default look)
+
+### Special Purpose
+
+#### [Puppy Linux](http://puppylinux.org/)
+
+> Puppy Linux is yet another Linux distribution. What's different here is that Puppy is extraordinarily small, yet quite full-featured. Puppy boots into a ramdisk and, unlike live CD distributions that have to keep pulling stuff off the CD, it loads into RAM. This means that all applications start in the blink of an eye and respond to user input instantly. Puppy Linux has the ability to boot off a flash card or any USB memory device, CDROM, Zip disk or LS/120/240 Superdisk, floppy disks, internal hard drive. It can even use a multisession formatted CD-RW/DVD-RW to save everything back to the CD/DVD with no hard drive required at all. 
+
+**Speciality:** Low system requirements
+
+**Latest version:** Puppy Linux 6.3
+
+**Default Desktop Environment:** Openbox
+
+**Screenshot:**
+
+![default look](http://img.linuxscreenshots.org/1280800/Puppy%20Linux%206.3/3.jpg)
 
 ## Learning Resources
 

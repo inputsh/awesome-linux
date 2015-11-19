@@ -195,6 +195,16 @@ It also offers a rolling release version called Tumbleweed for experienced users
 
 ![default look](http://distrowatch.com/images/cgfjoewdlbc/kali.png)
 
+#### [CoreOS](https://coreos.com/)
+
+> CoreOS is a Linux-based operating system for servers. Built from the ground up and designed primarily for the modern data centre, CoreOS provides specialist tools for making the system secure, reliable and up-to-date. Some of the more interesting features of the distribution include reliable updates and patches via FastPatch, a dashboard for managing rolling updates via CoreUpdate, a docker for packaging applications, as well as support for bare metal and many cloud providers. 
+
+**Speciality:** Clusters
+
+**Latest version:** CoreOS 845.0.0
+
+**Default Desktop Environment:** Not applicable (there's no default look)
+
 ## Learning Resources
 
 ### Books

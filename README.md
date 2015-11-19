@@ -181,6 +181,20 @@ It also offers a rolling release version called Tumbleweed for experienced users
 
 ![default look](http://img.linuxscreenshots.org/1280800/Puppy%20Linux%206.3/3.jpg)
 
+#### [Kali Linux](http://www.kali.org/)
+
+> Kali Linux (formerly known as BackTrack) is a Debian-based distribution with a collection of security and forensics tools. It features timely security updates, support for the ARM architecture, a choice of four popular desktop environments, and seamless upgrades to newer versions. 
+
+**Speciality:** Penetration testing
+
+**Latest version:** Kali Linux 2.0
+
+**Default Desktop Environment:** GNOME
+
+**Screenshot:**
+
+![default look](http://distrowatch.com/images/cgfjoewdlbc/kali.png)
+
 ## Learning Resources
 
 ### Books

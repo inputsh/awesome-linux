@@ -302,6 +302,8 @@ The list of awesome Linux applications that you should be using.
 * [fuck](https://github.com/nvbn/thefuck) - A magnificent command line tool which corrects your previously mistyped command (see [this `.gif`](https://raw.githubusercontent.com/nvbn/thefuck/master/example.gif)).
 * [vim](http://vim.org) - Vim is an advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set.
 * [vtop](https://parall.ax/vtop) - Command-line tools like “top” make it difficult to see CPU usage across multi-process applications (like Apache and Chrome), spikes over time, and memory usage. Vtop is a free and open source activity monitor for the command line. It’s written in node.js and can be easily extended.
+* [tig](http://jonas.nitro.dk/tig/) - Tig is an ncurses-based text-mode interface for git. It functions mainly as a Git repository browser, but can also assist in staging changes for commit at chunk level and act as a pager for output from various Git commands.
+* [cmus](https://cmus.github.io/) - Small, fast and powerful console music player for Unix-like operating systems.
 
 ### GUI-based Applications
 

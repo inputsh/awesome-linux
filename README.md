@@ -338,6 +338,7 @@ To add new content to this page, please refer to `CONTRIBUTING.md` file.
 * [YaST](https://en.opensuse.org/YaST_Software_Management) (openSUSE) - YaST is the main package management tool on openSUSE.
 * [YumEx](https://fedorahosted.org/yumex/) (Fedora) - YumEx is a GUI for the dnf package manager, it is written in Python and is using the PyGTK toolkit for GUI Components.
 * [Yaourt](https://wiki.archlinux.org/index.php/Yaourt) (Arch) - Yaourt (**Y**et **A**n**O**ther **U**ser **R**epository Tool) is a wrapper for pacman which adds automated access to the AUR using the same syntax as pacman. 
+* [Aura](https://github.com/aurapm/aura) (Arch) - A secure, multilingual package manager for Arch Linux and the AUR.
 
 ## Useful Websites
 

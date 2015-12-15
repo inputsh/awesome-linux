@@ -307,9 +307,7 @@ The list of awesome Linux applications that you should be using.
 
 ### GUI-based Applications
 
-_Empty for now._
-
-To add new content to this page, please refer to `CONTRIBUTING.md` file.
+* [Zathura](https://pwmt.org/projects/zathura/) - Zathura is a highly customizable and functional document viewer. It provides a minimalistic and space saving interface as well as an easy usage that mainly focuses on keyboard interaction.
 
 #### GNOME-based
 

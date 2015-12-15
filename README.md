@@ -304,12 +304,11 @@ The list of awesome Linux applications that you should be using.
 * [vtop](https://parall.ax/vtop) - Command-line tools like “top” make it difficult to see CPU usage across multi-process applications (like Apache and Chrome), spikes over time, and memory usage. Vtop is a free and open source activity monitor for the command line. It’s written in node.js and can be easily extended.
 * [tig](http://jonas.nitro.dk/tig/) - Tig is an ncurses-based text-mode interface for git. It functions mainly as a Git repository browser, but can also assist in staging changes for commit at chunk level and act as a pager for output from various Git commands.
 * [cmus](https://cmus.github.io/) - Small, fast and powerful console music player for Unix-like operating systems.
+* [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
 
 ### GUI-based Applications
 
-_Empty for now._
-
-To add new content to this page, please refer to `CONTRIBUTING.md` file.
+* [Zathura](https://pwmt.org/projects/zathura/) - Zathura is a highly customizable and functional document viewer. It provides a minimalistic and space saving interface as well as an easy usage that mainly focuses on keyboard interaction.
 
 #### GNOME-based
 
@@ -338,6 +337,8 @@ To add new content to this page, please refer to `CONTRIBUTING.md` file.
 * [Synaptics](http://www.nongnu.org/synaptic/) (Debian and .deb users) - Synaptic is a graphical package management program for apt. It provides the same features as the apt-get command line utility with a GUI front-end based on Gtk+.
 * [YaST](https://en.opensuse.org/YaST_Software_Management) (openSUSE) - YaST is the main package management tool on openSUSE.
 * [YumEx](https://fedorahosted.org/yumex/) (Fedora) - YumEx is a GUI for the dnf package manager, it is written in Python and is using the PyGTK toolkit for GUI Components.
+* [Yaourt](https://wiki.archlinux.org/index.php/Yaourt) (Arch) - Yaourt (**Y**et **A**n**O**ther **U**ser **R**epository Tool) is a wrapper for pacman which adds automated access to the AUR using the same syntax as pacman. 
+* [Aura](https://github.com/aurapm/aura) (Arch) - A secure, multilingual package manager for Arch Linux and the AUR.
 
 ## Useful Websites
 

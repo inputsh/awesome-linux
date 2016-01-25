@@ -53,7 +53,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 > elementary OS is an Ubuntu-based desktop distribution. Some of its more interesting features include a custom desktop environment called Pantheon and many custom apps including Photos, Music, Videos, Calendar, Terminal, Files, and more. It also comes with some familiar apps like the Midori web browser and Geary mail.
 
-**Latest version:** elementary OS Freya (0.3)
+**Latest version:** elementary OS Freya (0.3.2)
 
 **Default Desktop Environment:** Pantheon
 

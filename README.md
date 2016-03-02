@@ -307,6 +307,8 @@ The list of awesome Linux applications that you should be using.
 * [cmus](https://cmus.github.io/) - Small, fast and powerful console music player for Unix-like operating systems.
 * [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
 * [wavemon](https://github.com/uoaerg/wavemon) - ncurses-based monitoring application for wireless network devices
+* [testdisk](http://www.cgsecurity.org/wiki/TestDisk) - recover lost partitions
+* [photorec](http://www.cgsecurity.org/wiki/PhotoRec) - recover deleted files
 
 ### GUI-based Applications
 

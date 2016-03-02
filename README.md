@@ -310,6 +310,7 @@ The list of awesome Linux applications that you should be using.
 * [testdisk](http://www.cgsecurity.org/wiki/TestDisk) - recover lost partitions
 * [photorec](http://www.cgsecurity.org/wiki/PhotoRec) - recover deleted files
 * [htop](http://hisham.hm/htop/) - nice looking, customizable TUI task manager.
+* [glances](https://nicolargo.github.io/glances/) - cross-platform curses-based system monitoring tool written in Python.
 
 ### GUI-based Applications
 

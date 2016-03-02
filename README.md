@@ -306,6 +306,7 @@ The list of awesome Linux applications that you should be using.
 * [tig](http://jonas.nitro.dk/tig/) - Tig is an ncurses-based text-mode interface for git. It functions mainly as a Git repository browser, but can also assist in staging changes for commit at chunk level and act as a pager for output from various Git commands.
 * [cmus](https://cmus.github.io/) - Small, fast and powerful console music player for Unix-like operating systems.
 * [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
+* [wavemon](https://github.com/uoaerg/wavemon) - ncurses-based monitoring application for wireless network devices
 
 ### GUI-based Applications
 

@@ -380,7 +380,7 @@ Although its design is outdated, Linux.org is (probably) the most popular forum 
 * [awesome-shell](https://github.com/alebcay/awesome-shell)
 * [awesome-emacs](https://github.com/emacs-tw/awesome-emacs)
 * [awesome-vim](http://vimawesome.com/)
-* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
+* [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin)
 
 ## License
 

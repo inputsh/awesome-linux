@@ -318,6 +318,7 @@ The list of awesome Linux applications that you should be using.
 
 * [Gedit](https://wiki.gnome.org/Apps/Gedit) - Gedit is the GNOME text editor. While aiming at simplicity and ease of use, gedit is a powerful general purpose text editor.  
 * [Gnome Builder](https://wiki.gnome.org/Apps/Builder) - Builder is a new IDE for GNOME that is focused on bringing the power of our platform to more developers than ever before. It is currently under heavy development and needs your help to become a success.
+* [Geany](http://geany.org) - really small GTK IDE and versatile text editor, extendable with plugins.
 
 for general gnome apps, visit: https://wiki.gnome.org/Apps
 

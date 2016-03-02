@@ -309,6 +309,7 @@ The list of awesome Linux applications that you should be using.
 * [wavemon](https://github.com/uoaerg/wavemon) - ncurses-based monitoring application for wireless network devices
 * [testdisk](http://www.cgsecurity.org/wiki/TestDisk) - recover lost partitions
 * [photorec](http://www.cgsecurity.org/wiki/PhotoRec) - recover deleted files
+* [htop](http://hisham.hm/htop/) - nice looking, customizable TUI task manager.
 
 ### GUI-based Applications
 

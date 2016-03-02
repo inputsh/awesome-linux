@@ -306,6 +306,11 @@ The list of awesome Linux applications that you should be using.
 * [tig](http://jonas.nitro.dk/tig/) - Tig is an ncurses-based text-mode interface for git. It functions mainly as a Git repository browser, but can also assist in staging changes for commit at chunk level and act as a pager for output from various Git commands.
 * [cmus](https://cmus.github.io/) - Small, fast and powerful console music player for Unix-like operating systems.
 * [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
+* [wavemon](https://github.com/uoaerg/wavemon) - ncurses-based monitoring application for wireless network devices
+* [testdisk](http://www.cgsecurity.org/wiki/TestDisk) - recover lost partitions
+* [photorec](http://www.cgsecurity.org/wiki/PhotoRec) - recover deleted files
+* [htop](http://hisham.hm/htop/) - nice looking, customizable TUI task manager.
+* [glances](https://nicolargo.github.io/glances/) - cross-platform curses-based system monitoring tool written in Python.
 
 ### GUI-based Applications
 
@@ -315,6 +320,7 @@ The list of awesome Linux applications that you should be using.
 
 * [Gedit](https://wiki.gnome.org/Apps/Gedit) - Gedit is the GNOME text editor. While aiming at simplicity and ease of use, gedit is a powerful general purpose text editor.  
 * [Gnome Builder](https://wiki.gnome.org/Apps/Builder) - Builder is a new IDE for GNOME that is focused on bringing the power of our platform to more developers than ever before. It is currently under heavy development and needs your help to become a success.
+* [Geany](http://geany.org) - really small GTK IDE and versatile text editor, extendable with plugins.
 
 for general gnome apps, visit: https://wiki.gnome.org/Apps
 
@@ -347,6 +353,10 @@ To add new content to this page, please refer to `CONTRIBUTING.md` file.
 
  > A friendly place to start for the Free & Open Source Software and Linux curious.
 
+#### [AlternativeTo](http://alternativeto.net)
+
+ > Find better alternatives to the software you already use or a replacement for software you cannot or do not want to use.
+
 #### [Linux Foundation](www.linuxfoundation.org)
 
 > The Linux Foundation is a non-profit consortium dedicated to fostering the growth of Linux. Founded in 2000, The Linux Foundation sponsors the work of Linux creator Linus Torvalds and is supported by leading Linux and open source companies and developers from around the world.
@@ -376,7 +386,7 @@ Although its design is outdated, Linux.org is (probably) the most popular forum 
 * [awesome-shell](https://github.com/alebcay/awesome-shell)
 * [awesome-emacs](https://github.com/emacs-tw/awesome-emacs)
 * [awesome-vim](http://vimawesome.com/)
-* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
+* [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin)
 
 ## License
 

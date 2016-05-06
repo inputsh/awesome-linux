@@ -75,7 +75,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 > Linux Mint is an Ubuntu-based distribution whose goal is to provide a more complete out-of-the-box experience by including browser plugins, media codecs, support for DVD playback, Java and other components. It also adds a custom desktop and menus, several unique configuration tools, and a web-based package installation interface. Linux Mint is compatible with Ubuntu software repositories.
 
-**Latest version:** Rebecca (17.1)
+**Latest version:** Rosa (17.3)
 
 **Default Desktop Environment:** Cinnamon and MATE
 
@@ -87,7 +87,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 > Ubuntu is a complete desktop Linux operating system, freely available with both community and professional support. The Ubuntu community is built on the ideas enshrined in the Ubuntu Manifesto: that software should be available free of charge, that software tools should be usable by people in their local language and despite any disabilities, and that people should have the freedom to customise and alter their software in whatever way they see fit. "Ubuntu" is an ancient African word, meaning "humanity to others". The Ubuntu distribution brings the spirit of Ubuntu to the software world.
 
-**Latest version:** Ubuntu 15.10 (Wily Werewolf)
+**Latest version:** Ubuntu 16.04 (Xenial Xerus)
 
 **Default Desktop Environment:** Unity
 
@@ -174,23 +174,23 @@ It also offers a rolling release version called Tumbleweed for experienced users
 
 #### [CoreOS](https://coreos.com/)
 
-> CoreOS is a Linux-based operating system for servers. Built from the ground up and designed primarily for the modern data centre, CoreOS provides specialist tools for making the system secure, reliable and up-to-date. Some of the more interesting features of the distribution include reliable updates and patches via FastPatch, a dashboard for managing rolling updates via CoreUpdate, a docker for packaging applications, as well as support for bare metal and many cloud providers. 
+> CoreOS is a Linux-based operating system for servers. Built from the ground up and designed primarily for the modern data centre, CoreOS provides specialist tools for making the system secure, reliable and up-to-date. Some of the more interesting features of the distribution include reliable updates and patches via FastPatch, a dashboard for managing rolling updates via CoreUpdate, a docker for packaging applications, as well as support for bare metal and many cloud providers.
 
 **Speciality:** Clusters
 
-**Latest version:** CoreOS 845.0.0
+**Latest version:** CoreOS 1032.1.0
 
 #### [Kali Linux](http://www.kali.org/)
 
-> Kali Linux (formerly known as BackTrack) is a Debian-based distribution with a collection of security and forensics tools. It features timely security updates, support for the ARM architecture, a choice of four popular desktop environments, and seamless upgrades to newer versions. 
+> Kali Linux (formerly known as BackTrack) is a Debian-based distribution with a collection of security and forensics tools. It features timely security updates, support for the ARM architecture, a choice of four popular desktop environments, and seamless upgrades to newer versions.
 
 **Speciality:** Penetration testing
 
-**Latest version:** Kali Linux 2.0
+**Latest version:** Kali Linux 2016.1 (first Rolling Release version)
 
 #### [Puppy Linux](http://puppylinux.org/)
 
-> Puppy Linux is yet another Linux distribution. What's different here is that Puppy is extraordinarily small, yet quite full-featured. Puppy boots into a ramdisk and, unlike live CD distributions that have to keep pulling stuff off the CD, it loads into RAM. This means that all applications start in the blink of an eye and respond to user input instantly. Puppy Linux has the ability to boot off a flash card or any USB memory device, CDROM, Zip disk or LS/120/240 Superdisk, floppy disks, internal hard drive. It can even use a multisession formatted CD-RW/DVD-RW to save everything back to the CD/DVD with no hard drive required at all. 
+> Puppy Linux is yet another Linux distribution. What's different here is that Puppy is extraordinarily small, yet quite full-featured. Puppy boots into a ramdisk and, unlike live CD distributions that have to keep pulling stuff off the CD, it loads into RAM. This means that all applications start in the blink of an eye and respond to user input instantly. Puppy Linux has the ability to boot off a flash card or any USB memory device, CDROM, Zip disk or LS/120/240 Superdisk, floppy disks, internal hard drive. It can even use a multisession formatted CD-RW/DVD-RW to save everything back to the CD/DVD with no hard drive required at all.
 
 **Speciality:** Low system requirements
 
@@ -198,11 +198,11 @@ It also offers a rolling release version called Tumbleweed for experienced users
 
 #### [Ubuntu Studio](http://ubuntustudio.org/)
 
-> Ubuntu Studio is a variant of Ubuntu aimed at the GNU/Linux audio, video and graphic enthusiast as well as professional. The distribution provides a collection of open-source applications available for multimedia creation. 
+> Ubuntu Studio is a variant of Ubuntu aimed at the GNU/Linux audio, video and graphic enthusiast as well as professional. The distribution provides a collection of open-source applications available for multimedia creation.
 
 **Speciality:** Multimedia creation
 
-**Latest version:** Ubuntu Studio 15.10
+**Latest version:** Ubuntu Studio 16.04
 
 ## Learning Resources
 
@@ -339,12 +339,12 @@ To add new content to this page, please refer to `CONTRIBUTING.md` file.
 #### Distro-based Package Management Tools
 
 * [Y PPA Manager](https://launchpad.net/y-ppa-manager) (Ubuntu) - Search for packages in Launchpad PPAs.
-* [PacmanXG](http://almin-soft.ru/index.php?programmy/pacmanxg/tags/pacmanxg) (Arch) - GUI front-end for pacman. Depends on neither GTK+ nor Qt, just X11. 
+* [PacmanXG](http://almin-soft.ru/index.php?programmy/pacmanxg/tags/pacmanxg) (Arch) - GUI front-end for pacman. Depends on neither GTK+ nor Qt, just X11.
 * [pirut](http://fedoraproject.org/wiki/Tools/pirut) (Fedora) - pirut provides a set of graphical tools for managing software.
 * [Synaptics](http://www.nongnu.org/synaptic/) (Debian and .deb users) - Synaptic is a graphical package management program for apt. It provides the same features as the apt-get command line utility with a GUI front-end based on Gtk+.
 * [YaST](https://en.opensuse.org/YaST_Software_Management) (openSUSE) - YaST is the main package management tool on openSUSE.
 * [YumEx](https://fedorahosted.org/yumex/) (Fedora) - YumEx is a GUI for the dnf package manager, it is written in Python and is using the PyGTK toolkit for GUI Components.
-* [Yaourt](https://wiki.archlinux.org/index.php/Yaourt) (Arch) - Yaourt (**Y**et **A**n**O**ther **U**ser **R**epository Tool) is a wrapper for pacman which adds automated access to the AUR using the same syntax as pacman. 
+* [Yaourt](https://wiki.archlinux.org/index.php/Yaourt) (Arch) - Yaourt (**Y**et **A**n**O**ther **U**ser **R**epository Tool) is a wrapper for pacman which adds automated access to the AUR using the same syntax as pacman.
 * [Aura](https://github.com/aurapm/aura) (Arch) - A secure, multilingual package manager for Arch Linux and the AUR.
 
 ## Useful Websites

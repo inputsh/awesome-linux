@@ -298,19 +298,20 @@ The list of awesome Linux applications that you should be using.
 
 ### Console-based Applications
 
-* [git](https://git-scm.com/) -  Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows.
-* [nano](http://www.nano-editor.org) - GNU nano (or nano) is a text editor which aims to introduce a simple interface and intuitive command options to console based text editing. nano supports features including colorized syntax highlighting, DOS/Mac file type conversions, spellchecking and UTF-8 encoding. nano opened with an empty buffer typically occupies under 1.5 MB of resident memory.
+* [cmus](https://cmus.github.io/) - Small, fast and powerful console music player for Unix-like operating systems.
 * [fuck](https://github.com/nvbn/thefuck) - A magnificent command line tool which corrects your previously mistyped command (see [this `.gif`](https://raw.githubusercontent.com/nvbn/thefuck/master/example.gif)).
+* [git](https://git-scm.com/) -  Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows.
+* [glances](https://nicolargo.github.io/glances/) - cross-platform curses-based system monitoring tool written in Python.
+* [htop](http://hisham.hm/htop/) - nice looking, customizable TUI task manager.
+* [nano](http://www.nano-editor.org) - GNU nano (or nano) is a text editor which aims to introduce a simple interface and intuitive command options to console based text editing. nano supports features including colorized syntax highlighting, DOS/Mac file type conversions, spellchecking and UTF-8 encoding. nano opened with an empty buffer typically occupies under 1.5 MB of resident memory.
+* [photorec](http://www.cgsecurity.org/wiki/PhotoRec) - recover deleted files
+* [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
+* [speed-test](https://github.com/sindresorhus/speed-test) - Test your Internet connection speed and ping using [speedtest.net](http://www.speedtest.net/) from the CLI.
+* [testdisk](http://www.cgsecurity.org/wiki/TestDisk) - recover lost partitions
+* [tig](http://jonas.nitro.dk/tig/) - Tig is an ncurses-based text-mode interface for git. It functions mainly as a Git repository browser, but can also assist in staging changes for commit at chunk level and act as a pager for output from various Git commands.
 * [vim](http://vim.org) - Vim is an advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set.
 * [vtop](https://parall.ax/vtop) - Command-line tools like “top” make it difficult to see CPU usage across multi-process applications (like Apache and Chrome), spikes over time, and memory usage. Vtop is a free and open source activity monitor for the command line. It’s written in node.js and can be easily extended.
-* [tig](http://jonas.nitro.dk/tig/) - Tig is an ncurses-based text-mode interface for git. It functions mainly as a Git repository browser, but can also assist in staging changes for commit at chunk level and act as a pager for output from various Git commands.
-* [cmus](https://cmus.github.io/) - Small, fast and powerful console music player for Unix-like operating systems.
-* [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
 * [wavemon](https://github.com/uoaerg/wavemon) - ncurses-based monitoring application for wireless network devices
-* [testdisk](http://www.cgsecurity.org/wiki/TestDisk) - recover lost partitions
-* [photorec](http://www.cgsecurity.org/wiki/PhotoRec) - recover deleted files
-* [htop](http://hisham.hm/htop/) - nice looking, customizable TUI task manager.
-* [glances](https://nicolargo.github.io/glances/) - cross-platform curses-based system monitoring tool written in Python.
 
 ### GUI-based Applications
 
@@ -318,11 +319,11 @@ The list of awesome Linux applications that you should be using.
 
 #### GNOME-based
 
+* [Geany](http://geany.org) - really small GTK IDE and versatile text editor, extendable with plugins.
 * [Gedit](https://wiki.gnome.org/Apps/Gedit) - Gedit is the GNOME text editor. While aiming at simplicity and ease of use, gedit is a powerful general purpose text editor.  
 * [Gnome Builder](https://wiki.gnome.org/Apps/Builder) - Builder is a new IDE for GNOME that is focused on bringing the power of our platform to more developers than ever before. It is currently under heavy development and needs your help to become a success.
-* [Geany](http://geany.org) - really small GTK IDE and versatile text editor, extendable with plugins.
 
-for general gnome apps, visit: https://wiki.gnome.org/Apps
+For general gnome apps, visit: https://wiki.gnome.org/Apps
 
 #### KDE-based
 
@@ -379,7 +380,7 @@ Although its design is outdated, Linux.org is (probably) the most popular forum 
 
 > Our goal is to further the open source way by sharing the open source movement. Our community of readers is made up of those who believe that open participation and sharing can tackle the business, social, environmental, and technological challenges facing us today.
 
-## Other Useful Awesome Lists
+## Other Related Awesome Lists
 
 * [awesome](https://github.com/sindresorhus/awesome)
 * [awesome lists for programming languages](https://github.com/sindresorhus/awesome#programming-languages)

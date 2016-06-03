@@ -315,8 +315,6 @@ The list of awesome Linux applications that you should be using.
 
 ### GUI-based Applications
 
-* [Zathura](https://pwmt.org/projects/zathura/) - Zathura is a highly customizable and functional document viewer. It provides a minimalistic and space saving interface as well as an easy usage that mainly focuses on keyboard interaction.
-
 #### GNOME-based
 
 * [Geany](http://geany.org) - really small GTK IDE and versatile text editor, extendable with plugins.
@@ -331,7 +329,10 @@ _Empty for now._
 
 To add new content to this page, please refer to `CONTRIBUTING.md` file.
 
-#### Based on other desktop environments
+#### Not based on any desktop environment
+
+* [GParted](http://gparted.sourceforge.net/) - GParted is the most popular partitioning software out there and many Linux distributions have it installed by default.
+* [Zathura](https://pwmt.org/projects/zathura/) - Zathura is a highly customizable and functional document viewer. It provides a minimalistic and space saving interface as well as an easy usage that mainly focuses on keyboard interaction.
 
 _Empty for now._
 

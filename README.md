@@ -214,6 +214,12 @@ This is a great introduction to the Linux command line. It's also [freely availa
 
 > You've experienced the shiny, point-and-click surface of your Linux computer—now dive below and explore its depths with the power of the command line.
 
+#### [The Debian Administrator's Handbook, Debian Wheezy from Discovery to Mastery](https://www.goodreads.com/book/show/20839133-the-debian-administrator-s-handbook-debian-wheezy-from-discovery-to-mas) [Free]
+
+Good book that teaches you the basics of Debian Gnu/Linux administration. It's also [freely available online](https://debian-handbook.info/get/now/). - [@elninosi](https://github.com/elninosi)
+
+> It covers all the topics that a competent Linux administrator should master, from the installation, update of the system, up to the creation of packages and the compilation of the kernel, but also monitoring, backup and migration. Plus advanced topics to secure services, automated installations, or virtualization.
+
 ### Courses
 
 #### [Introduction to Linux (LFS101x.2)](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS101x.2+1T2015/info) [Free]

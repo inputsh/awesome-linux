@@ -39,6 +39,7 @@
   * [GUI-based Applications](#gui-based-applications)
     * [GNOME-based](#gnome-based)
     * [KDE-based](#kde-based)
+    * [Not based on any desktop environment](#not-based-on-any-desktop-environment)
     * [Based on Other Desktop Environments](#based-on-other-desktop-environments)
     * [Distro-based Package Management Tools](#distro-based-package-management-tools)
 * [Useful Websites](#useful-websites)
@@ -341,8 +342,6 @@ To add new content to this page, please refer to `CONTRIBUTING.md` file.
 
 * [GParted](http://gparted.sourceforge.net/) - GParted is the most popular partitioning software out there and many Linux distributions have it installed by default.
 * [Zathura](https://pwmt.org/projects/zathura/) - Zathura is a highly customizable and functional document viewer. It provides a minimalistic and space saving interface as well as an easy usage that mainly focuses on keyboard interaction.
-
-_Empty for now._
 
 To add new content to this page, please refer to `CONTRIBUTING.md` file.
 

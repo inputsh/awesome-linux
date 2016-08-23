@@ -322,6 +322,7 @@ The list of awesome Linux applications that you should be using.
 * [vim](http://vim.org) - Vim is an advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set.
 * [vtop](https://parall.ax/vtop) - Command-line tools like “top” make it difficult to see CPU usage across multi-process applications (like Apache and Chrome), spikes over time, and memory usage. Vtop is a free and open source activity monitor for the command line. It’s written in node.js and can be easily extended.
 * [wavemon](https://github.com/uoaerg/wavemon) - ncurses-based monitoring application for wireless network devices
+* [ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 
 ### GUI-based Applications
 

@@ -315,6 +315,7 @@ The list of awesome Linux applications that you should be using.
 * [htop](http://hisham.hm/htop/) - nice looking, customizable TUI task manager.
 * [nano](http://www.nano-editor.org) - GNU nano (or nano) is a text editor which aims to introduce a simple interface and intuitive command options to console based text editing. nano supports features including colorized syntax highlighting, DOS/Mac file type conversions, spellchecking and UTF-8 encoding. nano opened with an empty buffer typically occupies under 1.5 MB of resident memory.
 * [photorec](http://www.cgsecurity.org/wiki/PhotoRec) - recover deleted files
+* [ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 * [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
 * [speed-test](https://github.com/sindresorhus/speed-test) - Test your Internet connection speed and ping using [speedtest.net](http://www.speedtest.net/) from the CLI.
 * [testdisk](http://www.cgsecurity.org/wiki/TestDisk) - recover lost partitions

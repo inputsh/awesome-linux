@@ -2,8 +2,6 @@
 
 ![linux graphic](http://i.imgur.com/3F0xXh8.jpg)
 
-<!-- test -->
-
 ## Table of Content
 
 * [Distributions](#distributions)
@@ -41,10 +39,9 @@
     * [GNOME-based](#gnome-based)
     * [KDE-based](#kde-based)
     * [Not based on any desktop environment](#not-based-on-any-desktop-environment)
-    * [Based on Other Desktop Environments](#based-on-other-desktop-environments)
     * [Distro-based Package Management Tools](#distro-based-package-management-tools)
 * [Useful Websites](#useful-websites)
-* [Other Useful Awesome Lists](#other-useful-awesome-lists)
+* [Related Awesome Lists](#related-awesome-lists)
 * [License](#license)
 
 ## Distributions
@@ -282,14 +279,14 @@ This is a great guide for those who prefer a fast-paced introduction to the Linu
 ## X Windows Managers
 
 * [9wm](http://unauthorised.org/dhog/9wm.html) - 9wm is an X window manager which attempts to emulate the Plan 9 window manager 8-1/2 as far as possible within the constraints imposed by X.
-* [awesome](http://awesome.naquadah.org/) - awesome is a highly configurable, next generation framework window manager for X. It is very fast, extensible and licensed under the GNU GPLv2 license.
+* [awesome](https://awesomewm.org/) - awesome is a highly configurable, next generation framework window manager for X. It is very fast, extensible and licensed under the GNU GPLv2 license.
 * [Blackbox](http://blackboxwm.sourceforge.net/) - Blackbox is the fast, lightweight window manager for the X Window System you have been looking for, without all those annoying library dependencies. Blackbox is built with C++ and contains completely original code (even though the graphics implementation is similar to that of WindowMaker).
 * [bspwm](https://github.com/baskerville/bspwm) - bspwm is a tiling window manager that represents windows as the leaves of a full binary tree.
-* [Compiz](https://launchpad.net/compiz) - OpenGL compositing window manager. It has a plug-in system to be changed at runtime
+* [Compiz](https://launchpad.net/compiz) - OpenGL compositing window manager. It has a plug-in system to be changed at runtime.
 * [dwm](http://dwm.suckless.org/) - dwm is a dynamic window manager for X. It manages windows in tiled, monocle and floating layouts. All of the layouts can be applied dynamically, optimising the environment for the application in use and the task performed.
-* [Enlightenment](http://www.enlightenment.org/) - Enlightenment is not just a window manager for Linux/X11 and others, but also a whole suite of libraries to help you create beautiful user interfaces with much less work than doing it the old fashioned way and fighting with traditional toolkits, not to mention a traditional window manager
+* [Enlightenment](http://www.enlightenment.org/) - Enlightenment is not just a window manager for Linux/X11 and others, but also a whole suite of libraries to help you create beautiful user interfaces with much less work than doing it the old fashioned way and fighting with traditional toolkits, not to mention a traditional window manager.
 * [Fluxbox](http://www.fluxbox.org/) - Fluxbox is a windowmanager for X that was based on the Blackbox 0.61.1 code. It is very light on resources and easy to handle but yet full of features to make an easy, and extremely fast, desktop experience. It is built using C++ and licensed under the MIT-License.
-* [FVWM](http://fvwm.org/) - FVWM is an extremely powerful ICCCM-compliant multiple virtual desktop window manager for the X  Window system
+* [FVWM](http://fvwm.org/) - FVWM is an extremely powerful ICCCM-compliant multiple virtual desktop window manager for the X  Window system.
 * [i3](http://i3wm.org/) - i3 is a tiling window manager, completely written from scratch. The target platforms are GNU/Linux and BSD operating systems, our code is Free and Open Source Software (FOSS) under the BSD license. i3 is primarily targeted at advanced users and developers.
 * [IceWM](http://www.icewm.org/) - IceWM is a window manager for the X Window System (freedesktop, XFree86). The goal of IceWM is speed, simplicity, and not getting in the user's way.
 * [JWM](http://www.joewing.net/projects/jwm/) - JWM is a light-weight window manager for the X11 Window System. JWM is written in C and uses only Xlib at a minimum. Because of its small footprint, JWM makes a good window manager for older computers and less powerful systems, such as the Raspberry Pi, though it is perfectly capable of running on modern systems.
@@ -311,50 +308,50 @@ The list of awesome Linux applications that you should be using.
 * [cmus](https://cmus.github.io/) - Small, fast and powerful console music player for Unix-like operating systems.
 * [fuck](https://github.com/nvbn/thefuck) - A magnificent command line tool which corrects your previously mistyped command (see [this `.gif`](https://raw.githubusercontent.com/nvbn/thefuck/master/example.gif)).
 * [git](https://git-scm.com/) -  Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows.
-* [glances](https://nicolargo.github.io/glances/) - cross-platform curses-based system monitoring tool written in Python.
+* [glances](https://nicolargo.github.io/glances/) - A cross-platform curses-based system monitoring tool written in Python.
 * [htop](http://hisham.hm/htop/) - nice looking, customizable TUI task manager.
-* [nano](http://www.nano-editor.org) - GNU nano (or nano) is a text editor which aims to introduce a simple interface and intuitive command options to console based text editing. nano supports features including colorized syntax highlighting, DOS/Mac file type conversions, spellchecking and UTF-8 encoding. nano opened with an empty buffer typically occupies under 1.5 MB of resident memory.
-* [photorec](http://www.cgsecurity.org/wiki/PhotoRec) - recover deleted files
-* [ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
+* [nano](http://www.nano-editor.org) - A text editor which aims to introduce a simple interface and intuitive command options to console based text editing. nano supports features including colorized syntax highlighting, DOS/Mac file type conversions, spellchecking and UTF-8 encoding. nano opened with an empty buffer typically occupies under 1.5 MB of resident memory.
+* [photorec](http://www.cgsecurity.org/wiki/PhotoRec) - A useful tool for restoring deleted files.
+* [ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console.
 * [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
 * [speed-test](https://github.com/sindresorhus/speed-test) - Test your Internet connection speed and ping using [speedtest.net](http://www.speedtest.net/) from the CLI.
-* [testdisk](http://www.cgsecurity.org/wiki/TestDisk) - recover lost partitions
-* [tig](http://jonas.nitro.dk/tig/) - Tig is an ncurses-based text-mode interface for git. It functions mainly as a Git repository browser, but can also assist in staging changes for commit at chunk level and act as a pager for output from various Git commands.
+* [testdisk](http://www.cgsecurity.org/wiki/TestDisk) - A tool for disk partition recovery.
+* [tig](http://jonas.nitro.dk/tig/) - An ncurses-based text-mode interface for git. It functions mainly as a Git repository browser, but can also assist in staging changes for commit at chunk level and act as a pager for output from various Git commands.
 * [vim](http://vim.org) - Vim is an advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set.
 * [vtop](https://parall.ax/vtop) - Command-line tools like “top” make it difficult to see CPU usage across multi-process applications (like Apache and Chrome), spikes over time, and memory usage. Vtop is a free and open source activity monitor for the command line. It’s written in node.js and can be easily extended.
-* [wavemon](https://github.com/uoaerg/wavemon) - ncurses-based monitoring application for wireless network devices
+* [wavemon](https://github.com/uoaerg/wavemon) - An ncurses-based monitoring application for wireless network devices.
 
 ### GUI-based Applications
 
 #### GNOME-based
 
-* [Geany](http://geany.org) - really small GTK IDE and versatile text editor, extendable with plugins.
+* [Geany](http://geany.org) - A really small GTK IDE and versatile text editor, extendable with plugins.
 * [Gedit](https://wiki.gnome.org/Apps/Gedit) - Gedit is the GNOME text editor. While aiming at simplicity and ease of use, gedit is a powerful general purpose text editor.  
-* [Gnome Builder](https://wiki.gnome.org/Apps/Builder) - Builder is a new IDE for GNOME that is focused on bringing the power of our platform to more developers than ever before. It is currently under heavy development and needs your help to become a success.
+* [GNOME Builder](https://wiki.gnome.org/Apps/Builder) - Builder is a new IDE for GNOME that is focused on bringing the power of our platform to more developers than ever before. It is currently under heavy development and needs your help to become a success.
 
-For general gnome apps, visit: https://wiki.gnome.org/Apps
+For general GNOME apps, visit: https://wiki.gnome.org/Apps
 
 #### KDE-based
 
 _Empty for now._
 
-To add new content to this page, please refer to `CONTRIBUTING.md` file.
+To add new content to this section, please refer to the `CONTRIBUTING.md` file.
 
 #### Not based on any desktop environment
 
-* [GParted](http://gparted.sourceforge.net/) - GParted is the most popular partitioning software out there and many Linux distributions have it installed by default.
-* [Zathura](https://pwmt.org/projects/zathura/) - Zathura is a highly customizable and functional document viewer. It provides a minimalistic and space saving interface as well as an easy usage that mainly focuses on keyboard interaction.
+* [GParted](http://gparted.sourceforge.net/) - The most popular disk partitioning software out there.
+* [Zathura](https://pwmt.org/projects/zathura/) - Highly customizable document viewer. It provides a minimalistic and space saving interface as well as an easy usage that mainly focuses on keyboard interaction.
 
-To add new content to this page, please refer to `CONTRIBUTING.md` file.
+To add new content to this section, please refer to the `CONTRIBUTING.md` file.
 
 #### Distro-based Package Management Tools
 
 * [Y PPA Manager](https://launchpad.net/y-ppa-manager) (Ubuntu) - Search for packages in Launchpad PPAs.
 * [PacmanXG](http://almin-soft.ru/index.php?programmy/pacmanxg/tags/pacmanxg) (Arch) - GUI front-end for pacman. Depends on neither GTK+ nor Qt, just X11.
 * [pirut](http://fedoraproject.org/wiki/Tools/pirut) (Fedora) - pirut provides a set of graphical tools for managing software.
-* [Synaptics](http://www.nongnu.org/synaptic/) (Debian and .deb users) - Synaptic is a graphical package management program for apt. It provides the same features as the apt-get command line utility with a GUI front-end based on Gtk+.
-* [YaST](https://en.opensuse.org/YaST_Software_Management) (openSUSE) - YaST is the main package management tool on openSUSE.
-* [YumEx](https://fedorahosted.org/yumex/) (Fedora) - YumEx is a GUI for the dnf package manager, it is written in Python and is using the PyGTK toolkit for GUI Components.
+* [Synaptics](http://www.nongnu.org/synaptic/) (Debian and `.deb` users) - A graphical package management program for apt. It provides the same features as the apt-get command line utility with a GUI front-end based on Gtk+.
+* [YaST](https://en.opensuse.org/YaST_Software_Management) (openSUSE) - The main package management tool on openSUSE.
+* [YumEx](https://fedorahosted.org/yumex/) (Fedora) - YumEx is a GUI for the dnf package manager, it is written in Python and is using the PyGTK toolkit for GUI components.
 * [Yaourt](https://wiki.archlinux.org/index.php/Yaourt) (Arch) - Yaourt (**Y**et **A**n**O**ther **U**ser **R**epository Tool) is a wrapper for pacman which adds automated access to the AUR using the same syntax as pacman.
 * [Aura](https://github.com/aurapm/aura) (Arch) - A secure, multilingual package manager for Arch Linux and the AUR.
 
@@ -390,7 +387,7 @@ Although its design is outdated, Linux.org is (probably) the most popular forum 
 
 > Our goal is to further the open source way by sharing the open source movement. Our community of readers is made up of those who believe that open participation and sharing can tackle the business, social, environmental, and technological challenges facing us today.
 
-## Other Related Awesome Lists
+## Related Awesome Lists
 
 * [awesome](https://github.com/sindresorhus/awesome)
 * [awesome lists for programming languages](https://github.com/sindresorhus/awesome#programming-languages)

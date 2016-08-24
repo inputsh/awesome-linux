@@ -209,15 +209,15 @@ It also offers a rolling release version called Tumbleweed for experienced users
 
 ### Books
 
-#### [The Linux Command Line](https://www.goodreads.com/book/show/11724436-the-linux-command-line) [4.34]
+#### [The Linux Command Line](https://www.goodreads.com/book/show/11724436-the-linux-command-line) [4.34] [[FREE](http://linuxcommand.org/tlcl.php)]
 
-This is a great introduction to the Linux command line. It's also [freely available online](http://linuxcommand.org/tlcl.php). - [@4iar](https://github.com/4iar/)
+This is a great introduction to the Linux command line. - [@4iar](https://github.com/4iar/)
 
 > You've experienced the shiny, point-and-click surface of your Linux computer—now dive below and explore its depths with the power of the command line.
 
-#### [The Debian Administrator's Handbook, Debian Wheezy from Discovery to Mastery](https://www.goodreads.com/book/show/20839133-the-debian-administrator-s-handbook-debian-wheezy-from-discovery-to-mas) [Free]
+#### [The Debian Administrator's Handbook, Debian Wheezy from Discovery to Mastery](https://www.goodreads.com/book/show/20839133-the-debian-administrator-s-handbook-debian-wheezy-from-discovery-to-mas) [4.8] [[FREE](https://debian-handbook.info/get/now/)]
 
-Good book that teaches you the basics of Debian Gnu/Linux administration. It's also [freely available online](https://debian-handbook.info/get/now/). - [@elninosi](https://github.com/elninosi)
+Good book that teaches you the basics of Debian GNU/Linux administration. - [@elninosi](https://github.com/elninosi)
 
 > It covers all the topics that a competent Linux administrator should master, from the installation, update of the system, up to the creation of packages and the compilation of the kernel, but also monitoring, backup and migration. Plus advanced topics to secure services, automated installations, or virtualization.
 

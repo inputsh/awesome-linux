@@ -1,10 +1,6 @@
 # Awesome Linux [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-![Linux turns 25 today](http://i.imgur.com/NIr5k0Z.jpg)
-
-To celebrate the 25th anniversary of Linux, The Linux Foundation released their seventh edition of the Linux Kernel Development report. It analyzes the work done by over 13,500 developers since the kernel’s early days, as well as more recent trends. You can get the report here (**warning:** newsletter subscription required):
-
-[Linux Kernel Development: How Fast It is Going, Who is Doing It, What They are Doing, and Who is Sponsoring It [2016]](https://www.linux.com/publications/linux-kernel-development-how-fast-it-going-who-doing-it-what-they-are-doing-and-who-5)
+![linux graphic](http://i.imgur.com/3F0xXh8.jpg)
 
 ## Table of Content
 

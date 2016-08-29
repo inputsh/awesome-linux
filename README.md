@@ -231,7 +231,7 @@ Organized by the Linux Foundation, it's a great free course to learn basics abou
 
 If you used Windows and decided to switch to Linux, this course should help you to find their alternatives. It's pretty short and you can finish it in a day. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
 
-#### [Learn Linux The Hard Way](https://nixsrv.com/llthw) [Free]
+#### [Learn Linux The Hard Way](https://web.archive.org/web/20160224020724/https://nixsrv.com/llthw) [Free]
 
 This is a great guide for those who prefer a fast-paced introduction to the Linux command line. It's written in a similar style to Zed A. Shaw's Learn X The Hard Way. - [@4iar](https://github.com/4iar)
 

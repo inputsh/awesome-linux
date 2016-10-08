@@ -333,7 +333,7 @@ For general GNOME apps, visit: https://wiki.gnome.org/Apps
 
 #### KDE-based
 
-_Empty for now._
+* [Dolphin File Manager](https://userbase.kde.org/Dolphin) - File manager for KDE focusing on usability.
 
 To add new content to this section, please refer to the `CONTRIBUTING.md` file.
 

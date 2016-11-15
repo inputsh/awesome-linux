@@ -385,11 +385,11 @@ Although its design is outdated, Linux.org is (probably) the most popular forum 
 ## Related Awesome Lists
 
 * [awesome](https://github.com/sindresorhus/awesome)
-* [awesome lists for programming languages](https://github.com/sindresorhus/awesome#programming-languages)
 * [awesome-shell](https://github.com/alebcay/awesome-shell)
 * [awesome-emacs](https://github.com/emacs-tw/awesome-emacs)
 * [awesome-vim](http://vimawesome.com/)
 * [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin)
+* [awesome-linux-software](https://github.com/VoLuong/Awesome-Linux-Software)
 
 ## License
 

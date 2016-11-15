@@ -54,7 +54,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 > elementary OS is an Ubuntu-based desktop distribution. Some of its more interesting features include a custom desktop environment called Pantheon and many custom apps including Photos, Music, Videos, Calendar, Terminal, Files, and more. It also comes with some familiar apps like the Midori web browser and Geary mail.
 
-**Latest version:** elementary OS Freya (0.3.2)
+**Latest version:** elementary OS Loki (0.4)
 
 **Default Desktop Environment:** Pantheon
 
@@ -76,7 +76,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 > Linux Mint is an Ubuntu-based distribution whose goal is to provide a more complete out-of-the-box experience by including browser plugins, media codecs, support for DVD playback, Java and other components. It also adds a custom desktop and menus, several unique configuration tools, and a web-based package installation interface. Linux Mint is compatible with Ubuntu software repositories.
 
-**Latest version:** Rosa (17.3)
+**Latest version:** Linux Mint Sarah (18)
 
 **Default Desktop Environment:** Cinnamon and MATE
 
@@ -88,7 +88,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 > Ubuntu is a complete desktop Linux operating system, freely available with both community and professional support. The Ubuntu community is built on the ideas enshrined in the Ubuntu Manifesto: that software should be available free of charge, that software tools should be usable by people in their local language and despite any disabilities, and that people should have the freedom to customise and alter their software in whatever way they see fit. "Ubuntu" is an ancient African word, meaning "humanity to others". The Ubuntu distribution brings the spirit of Ubuntu to the software world.
 
-**Latest version:** Ubuntu 16.04 (Xenial Xerus)
+**Latest version:** Ubuntu 16.10 (Yakkety Yak)
 
 **Default Desktop Environment:** Unity
 
@@ -151,7 +151,7 @@ Distributions are organized into three different categories: for **beginners**, 
 > The openSUSE project is a community program sponsored by SUSE Linux and other companies. Promoting the use of Linux everywhere, this program provides free, easy access to openSUSE, a complete Linux distribution. The openSUSE project has three main goals: make openSUSE the easiest Linux for anyone to obtain and the most widely used Linux distribution; leverage open source collaboration to make openSUSE the world's most usable Linux distribution and desktop environment for new and experienced Linux users; dramatically simplify and open the development and packaging processes to make openSUSE the platform of choice for Linux developers and software vendors.
 It also offers a rolling release version called Tumbleweed for experienced users.
 
-**Latest version:** openSUSE 42.1
+**Latest version:** openSUSE Leap 42.1 and openSUSE Tumbleweed (Rolling Release system)
 
 **Default Desktop Environment:** KDE, GNOME, XFCE, LXDE (Choose on installation)
 
@@ -179,7 +179,7 @@ It also offers a rolling release version called Tumbleweed for experienced users
 
 **Speciality:** Clusters
 
-**Latest version:** CoreOS 1032.1.0
+**Latest version:** CoreOS 1221.0.0
 
 #### [Kali Linux](http://www.kali.org/)
 
@@ -187,7 +187,7 @@ It also offers a rolling release version called Tumbleweed for experienced users
 
 **Speciality:** Penetration testing
 
-**Latest version:** Kali Linux 2016.1 (first Rolling Release version)
+**Latest version:** Not applicable (Rolling Release system since 2016.1 version)
 
 #### [Puppy Linux](http://puppylinux.org/)
 
@@ -203,7 +203,7 @@ It also offers a rolling release version called Tumbleweed for experienced users
 
 **Speciality:** Multimedia creation
 
-**Latest version:** Ubuntu Studio 16.04
+**Latest version:** Ubuntu Studio 16.10
 
 ## Learning Resources
 

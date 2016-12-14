@@ -390,6 +390,8 @@ Although its design is outdated, Linux.org is (probably) the most popular forum 
 * [awesome-vim](http://vimawesome.com/)
 * [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin)
 * [awesome-linux-software](https://github.com/VoLuong/Awesome-Linux-Software)
+* [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
+* [awesome-devenv](https://github.com/jondot/awesome-devenv)
 
 ## License
 

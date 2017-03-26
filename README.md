@@ -350,6 +350,10 @@ To add new content to this section, please refer to the `CONTRIBUTING.md` file.
 * [Yaourt](https://wiki.archlinux.org/index.php/Yaourt) (Arch) - Yaourt (**Y**et **A**n**O**ther **U**ser **R**epository Tool) is a wrapper for pacman which adds automated access to the AUR using the same syntax as pacman.
 * [Aura](https://github.com/aurapm/aura) (Arch) - A secure, multilingual package manager for Arch Linux and the AUR.
 
+#### Distro-independent Application Distribution Tools
+
+* [AppImageKit](https://github.com/probonopd/AppImageKit) - Using AppImageKit you can package applications in the [AppImage](http://appimage.org/) format that runs on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one app = one file.
+
 ## Useful Websites
 
 #### [Compute Freely](http://computefreely.org/)

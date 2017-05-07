@@ -5,7 +5,8 @@
 ![linux graphic](http://i.imgur.com/3F0xXh8.jpg)
 
 ---
-<p align="center"> You might also want to check [awesome-c](https://github.com/aleksandar-todorovic/awesome-c), [awesome-shell](https://github.com/alebcay/awesome-shell), [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin), and [awesome-security](https://github.com/sbilly/awesome-security).</p>
+
+<p align="center"> You might also want to check <a href="https://github.com/aleksandar-todorovic/awesome-c">awesome-c</a>, <a href="https://github.com/alebcay/awesome-shell">awesome-shell</a>, <a href="https://github.com/n1trux/awesome-sysadmin">awesome-sysadmin</a>, and <a href="https://github.com/sbilly/awesome-security">awesome-security</a>.
 
 ---
 

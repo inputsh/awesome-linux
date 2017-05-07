@@ -95,7 +95,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 > Ubuntu is a complete desktop Linux operating system, freely available with both community and professional support. The Ubuntu community is built on the ideas enshrined in the Ubuntu Manifesto: that software should be available free of charge, that software tools should be usable by people in their local language and despite any disabilities, and that people should have the freedom to customise and alter their software in whatever way they see fit. "Ubuntu" is an ancient African word, meaning "humanity to others". The Ubuntu distribution brings the spirit of Ubuntu to the software world.
 
-**Latest version:** Ubuntu 16.10 (Yakkety Yak)
+**Latest version:** Ubuntu 17.04
 
 **Default Desktop Environment:** Unity
 
@@ -109,7 +109,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 > CentOS as a group is a community of open source contributors and users. Typical CentOS users are organisations and individuals that do not need strong commercial support in order to achieve successful operation. CentOS is 100% compatible rebuild of the Red Hat Enterprise Linux, in full compliance with Red Hat's redistribution requirements. CentOS is for people who need an enterprise class operating system stability without the cost of certification and support.
 
-**Latest version:** CentOS 7.1602
+**Latest version:** CentOS 7.1611
 
 **Default Desktop Environment:** GNOME
 
@@ -186,15 +186,11 @@ It also offers a rolling release version called Tumbleweed for experienced users
 
 **Speciality:** Clusters
 
-**Latest version:** CoreOS 1221.0.0
-
 #### [Kali Linux](http://www.kali.org/)
 
 > Kali Linux (formerly known as BackTrack) is a Debian-based distribution with a collection of security and forensics tools. It features timely security updates, support for the ARM architecture, a choice of four popular desktop environments, and seamless upgrades to newer versions.
 
 **Speciality:** Penetration testing
-
-**Latest version:** Not applicable (Rolling Release system since 2016.1 version)
 
 #### [Puppy Linux](http://puppylinux.org/)
 
@@ -202,15 +198,11 @@ It also offers a rolling release version called Tumbleweed for experienced users
 
 **Speciality:** Low system requirements
 
-**Latest version:** Puppy Linux 6.3
-
 #### [Ubuntu Studio](http://ubuntustudio.org/)
 
 > Ubuntu Studio is a variant of Ubuntu aimed at the GNU/Linux audio, video and graphic enthusiast as well as professional. The distribution provides a collection of open-source applications available for multimedia creation.
 
 **Speciality:** Multimedia creation
-
-**Latest version:** Ubuntu Studio 16.10
 
 ## Learning Resources
 

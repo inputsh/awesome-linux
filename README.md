@@ -320,11 +320,13 @@ The list of awesome Linux applications that you should be using.
 
 #### GNOME-based
 
-* [Geany](http://geany.org) - A really small GTK IDE and versatile text editor, extendable with plugins.
-* [Gedit](https://wiki.gnome.org/Apps/Gedit) - Gedit is the GNOME text editor. While aiming at simplicity and ease of use, gedit is a powerful general purpose text editor.  
-* [GNOME Builder](https://wiki.gnome.org/Apps/Builder) - Builder is a new IDE for GNOME that is focused on bringing the power of our platform to more developers than ever before. It is currently under heavy development and needs your help to become a success.
+* [Builder](https://wiki.gnome.org/Apps/Builder) - Builder is an IDE for GNOME that is focused on bringing the power of the GNOME platform to more developers than ever before.
+* [Evince](https://wiki.gnome.org/Apps/Evince) - The most popular document viewer on the GNOME platform.
+* [Gedit](https://wiki.gnome.org/Apps/Gedit) - Gedit is the GNOME text editor. While aiming at simplicity and ease of use, gedit is a powerful general purpose text editor.
+* [Polari](https://wiki.gnome.org/Apps/Polari) - IRC client built to be easy to use.
+* [To Do](https://wiki.gnome.org/Apps/Todo) - Minimalistic personal task manager designed to fit right into your GNOME desktop.
 
-For general GNOME apps, visit: https://wiki.gnome.org/Apps
+For more GNOME apps, visit: https://wiki.gnome.org/Apps
 
 #### Pantheon-based
 

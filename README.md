@@ -342,7 +342,7 @@ To add new content to this section, please refer to the `CONTRIBUTING.md` file.
 #### Distro-based Package Management Tools
 
 * [Y PPA Manager](https://launchpad.net/y-ppa-manager) (Ubuntu) - Search for packages in Launchpad PPAs.
-* [PacmanXG](http://almin-soft.ru/index.php?programmy/pacmanxg/tags/pacmanxg) (Arch) - GUI front-end for pacman. Depends on neither GTK+ nor Qt, just X11.
+* [PacmanXG](https://github.com/mesjetiu/PacmanXG) (Arch) - GUI front-end for pacman. Depends on neither GTK+ nor Qt, just X11.
 * [pirut](http://fedoraproject.org/wiki/Tools/pirut) (Fedora) - pirut provides a set of graphical tools for managing software.
 * [Synaptics](http://www.nongnu.org/synaptic/) (Debian and `.deb` users) - A graphical package management program for apt. It provides the same features as the apt-get command line utility with a GUI front-end based on Gtk+.
 * [YaST](https://en.opensuse.org/YaST_Software_Management) (openSUSE) - The main package management tool on openSUSE.

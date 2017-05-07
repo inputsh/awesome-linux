@@ -45,6 +45,7 @@
   * [Console-based Applications](#console-based-applications)
   * [GUI-based Applications](#gui-based-applications)
     * [GNOME-based](#gnome-based)
+    * [Pantheon-based](#pantheon-based)
     * [KDE-based](#kde-based)
     * [Not based on any desktop environment](#not-based-on-any-desktop-environment)
     * [Distro-based Package Management Tools](#distro-based-package-management-tools)
@@ -324,6 +325,13 @@ The list of awesome Linux applications that you should be using.
 * [GNOME Builder](https://wiki.gnome.org/Apps/Builder) - Builder is a new IDE for GNOME that is focused on bringing the power of our platform to more developers than ever before. It is currently under heavy development and needs your help to become a success.
 
 For general GNOME apps, visit: https://wiki.gnome.org/Apps
+
+#### Pantheon-based
+
+* [FeedReader](https://jangernert.github.io/FeedReader/) - RSS desktop client able to integrate with multiple online services.
+* [Vocal](http://vocalproject.net/) - Podcast client for the modern desktop.
+* [Spice-Up](https://github.com/Philip-Scott/Spice-up) - Desktop presentation app
+* [NaSC](http://parnold-x.github.io/nasc/) - Intelligent calculator app.
 
 #### KDE-based
 

@@ -42,13 +42,14 @@
   * [Other Desktop Environments](#other-desktop-environments)
 * [X Windows Managers](#x-windows-managers)
 * [Applications](#applications)
-  * [Console-based Applications](#console-based-applications)
   * [GUI-based Applications](#gui-based-applications)
     * [GNOME-based](#gnome-based)
     * [Pantheon-based](#pantheon-based)
     * [KDE-based](#kde-based)
     * [Not based on any desktop environment](#not-based-on-any-desktop-environment)
-    * [Distro-based Package Management Tools](#distro-based-package-management-tools)
+    * [Package management and creation tools](#distro-based-package-management-tools)
+  * [Console-based Applications](#console-based-applications)
+
 * [Useful Websites](#useful-websites)
 * [License](#license)
 
@@ -298,24 +299,6 @@ If you used Windows and decided to switch to Linux, this course should help you 
 
 The list of awesome Linux applications that you should be using.
 
-### Console-based Applications
-
-* [cmus](https://cmus.github.io/) - Small, fast and powerful console music player for Unix-like operating systems.
-* [fuck](https://github.com/nvbn/thefuck) - A magnificent command line tool which corrects your previously mistyped command (see [this `.gif`](https://raw.githubusercontent.com/nvbn/thefuck/master/example.gif)).
-* [git](https://git-scm.com/) -  Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows.
-* [glances](https://nicolargo.github.io/glances/) - A cross-platform curses-based system monitoring tool written in Python.
-* [htop](http://hisham.hm/htop/) - nice looking, customizable TUI task manager.
-* [nano](http://www.nano-editor.org) - A text editor which aims to introduce a simple interface and intuitive command options to console based text editing. nano supports features including colorized syntax highlighting, DOS/Mac file type conversions, spellchecking and UTF-8 encoding. nano opened with an empty buffer typically occupies under 1.5 MB of resident memory.
-* [photorec](http://www.cgsecurity.org/wiki/PhotoRec) - A useful tool for restoring deleted files.
-* [ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console.
-* [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
-* [speed-test](https://github.com/sindresorhus/speed-test) - Test your Internet connection speed and ping using [speedtest.net](http://www.speedtest.net/) from the CLI.
-* [testdisk](http://www.cgsecurity.org/wiki/TestDisk) - A tool for disk partition recovery.
-* [tig](http://jonas.nitro.dk/tig/) - An ncurses-based text-mode interface for git. It functions mainly as a Git repository browser, but can also assist in staging changes for commit at chunk level and act as a pager for output from various Git commands.
-* [vim](http://vim.org) - Vim is an advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set.
-* [vtop](https://parall.ax/vtop) - Command-line tools like “top” make it difficult to see CPU usage across multi-process applications (like Apache and Chrome), spikes over time, and memory usage. Vtop is a free and open source activity monitor for the command line. It’s written in node.js and can be easily extended.
-* [wavemon](https://github.com/uoaerg/wavemon) - An ncurses-based monitoring application for wireless network devices.
-
 ### GUI-based Applications
 
 #### GNOME-based
@@ -348,20 +331,39 @@ To add new content to this section, please refer to the `CONTRIBUTING.md` file.
 
 To add new content to this section, please refer to the `CONTRIBUTING.md` file.
 
-#### Distro-based Package Management Tools
+#### Package management and creation tools
+
+Distro-oriented:
 
 * [Y PPA Manager](https://launchpad.net/y-ppa-manager) (Ubuntu) - Search for packages in Launchpad PPAs.
-* [PacmanXG](http://almin-soft.ru/index.php?programmy/pacmanxg/tags/pacmanxg) (Arch) - GUI front-end for pacman. Depends on neither GTK+ nor Qt, just X11.
 * [pirut](http://fedoraproject.org/wiki/Tools/pirut) (Fedora) - pirut provides a set of graphical tools for managing software.
-* [Synaptics](http://www.nongnu.org/synaptic/) (Debian and `.deb` users) - A graphical package management program for apt. It provides the same features as the apt-get command line utility with a GUI front-end based on Gtk+.
+* [Synaptics](http://www.nongnu.org/synaptic/) (Debian and `.deb` users) - A graphical package management program for `apt`. Provides the same features as the apt-get command line utility with a GUI front-end.
 * [YaST](https://en.opensuse.org/YaST_Software_Management) (openSUSE) - The main package management tool on openSUSE.
-* [YumEx](https://fedorahosted.org/yumex/) (Fedora) - YumEx is a GUI for the dnf package manager, it is written in Python and is using the PyGTK toolkit for GUI components.
-* [Yaourt](https://wiki.archlinux.org/index.php/Yaourt) (Arch) - Yaourt (**Y**et **A**n**O**ther **U**ser **R**epository Tool) is a wrapper for pacman which adds automated access to the AUR using the same syntax as pacman.
-* [Aura](https://github.com/aurapm/aura) (Arch) - A secure, multilingual package manager for Arch Linux and the AUR.
+* [YumEx](https://fedorahosted.org/yumex/) (Fedora) - A GUI for the dnf package manager.
+* [Yaourt](https://wiki.archlinux.org/index.php/Yaourt) (Arch) - A wrapper for `pacman` which adds automated access to the AUR using the same syntax as pacman.
+* [Aura](https://github.com/aurapm/aura) (Arch) - Secure, multilingual package manager.
 
-#### Distro-independent Application Distribution Tools
+Distro-independent:
 
 * [AppImageKit](https://github.com/probonopd/AppImageKit) - Using AppImageKit you can package applications in the [AppImage](http://appimage.org/) format that runs on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one app = one file.
+
+### Console-based Applications
+
+* [cmus](https://cmus.github.io/) - Small, fast and powerful console music player.
+* [fuck](https://github.com/nvbn/thefuck) - Command line tool which corrects your previously mistyped command.
+* [git](https://git-scm.com/) -  Free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+* [glances](https://nicolargo.github.io/glances/) - Cross-platform system monitoring tool.
+* [htop](http://hisham.hm/htop/) - Nice looking, customizable task manager.
+* [nano](http://www.nano-editor.org) - Simple to use text editor.
+* [photorec](http://www.cgsecurity.org/wiki/PhotoRec) - Useful tool for restoring deleted files.
+* [ranger](https://github.com/ranger/ranger) - Vim-inspired file manager for the console.
+* [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal.
+* [speed-test](https://github.com/sindresorhus/speed-test) - Test your Internet connection speed and ping using [speedtest.net](http://www.speedtest.net/) from the CLI.
+* [testdisk](http://www.cgsecurity.org/wiki/TestDisk) - A tool for disk partition recovery.
+* [tig](http://jonas.nitro.dk/tig/) - Text-mode interface for git. It functions mainly as a Git repository browser.
+* [vim](http://vim.org) - Advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set.
+* [vtop](https://parall.ax/vtop) - Easily-extendable activity monitor.
+* [wavemon](https://github.com/uoaerg/wavemon) - Monitoring application for wireless network devices.
 
 ## Useful Websites
 

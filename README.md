@@ -1,6 +1,13 @@
-# Awesome Linux [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+<h1 align="center"> <a href="http://awesome.re"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="awesome"></a> Linux </h1>
+
+<p align="center">We all know that Linux is awesome, but here's a list of especially awesome things related to the Linux ecosystem.</p>
 
 ![linux graphic](http://i.imgur.com/3F0xXh8.jpg)
+
+---
+<p align="center"> You might also want to check [awesome-c](https://github.com/aleksandar-todorovic/awesome-c), [awesome-shell](https://github.com/alebcay/awesome-shell), [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin), and [awesome-security](https://github.com/sbilly/awesome-security).</p>
+
+---
 
 ## Table of Content
 
@@ -41,7 +48,6 @@
     * [Not based on any desktop environment](#not-based-on-any-desktop-environment)
     * [Distro-based Package Management Tools](#distro-based-package-management-tools)
 * [Useful Websites](#useful-websites)
-* [Related Awesome Lists](#related-awesome-lists)
 * [License](#license)
 
 ## Distributions
@@ -385,15 +391,6 @@ Although its design is outdated, Linux.org is (probably) the most popular forum 
 > Opensource.com is an online publication focused on how open source is applied to different areas including business, education, government, health, law and other disciplines of life.
 
 > Our goal is to further the open source way by sharing the open source movement. Our community of readers is made up of those who believe that open participation and sharing can tackle the business, social, environmental, and technological challenges facing us today.
-
-## Related Awesome Lists
-
-* [awesome](https://github.com/sindresorhus/awesome)
-* [awesome-shell](https://github.com/alebcay/awesome-shell)
-* [awesome-emacs](https://github.com/emacs-tw/awesome-emacs)
-* [awesome-vim](http://vimawesome.com/)
-* [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin)
-* [awesome-linux-software](https://github.com/VoLuong/Awesome-Linux-Software)
 
 ## License
 

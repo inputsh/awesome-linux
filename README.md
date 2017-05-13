@@ -77,8 +77,6 @@ Distributions are organized into three different categories: for **beginners**, 
 
 **Default Desktop Environment:** GNOME
 
-**Screenshot:**
-
 ![default look](http://distrowatch.com/images/cgfjoewdlbc/fedora.png)
 
 #### [Linux Mint](http://linuxmint.com/)
@@ -89,8 +87,6 @@ Distributions are organized into three different categories: for **beginners**, 
 
 **Default Desktop Environment:** Cinnamon and MATE
 
-**Screenshot:**
-
 ![default look](http://distrowatch.com/images/cgfjoewdlbc/mint.png)
 
 #### [Ubuntu](http://www.ubuntu.com/)
@@ -100,8 +96,6 @@ Distributions are organized into three different categories: for **beginners**, 
 **Latest version:** Ubuntu 17.04
 
 **Default Desktop Environment:** Unity
-
-**Screenshot:**
 
 ![default look](http://distrowatch.com/images/screenshots/ubuntu-15.10.png)
 
@@ -115,8 +109,6 @@ Distributions are organized into three different categories: for **beginners**, 
 
 **Default Desktop Environment:** GNOME
 
-**Screenshot:**
-
 ![default look](http://distrowatch.com/images/cgfjoewdlbc/centos.png)
 
 #### [Debian GNU/Linux](https://www.debian.org/)
@@ -126,8 +118,6 @@ Distributions are organized into three different categories: for **beginners**, 
 **Latest version:** Debian Jessie (8.6)
 
 **Default Desktop Environment:** GNOME
-
-**Screenshot:**
 
 ![default look](http://distrowatch.com/images/cgfjoewdlbc/debian.png)
 
@@ -139,8 +129,6 @@ Distributions are organized into three different categories: for **beginners**, 
 
 **Default Desktop Environment:** KDE
 
-**Screenshot:**
-
 ![default look](http://distrowatch.com/images/cgfjoewdlbc/mageia.png)
 
 #### [Manjaro](https://manjaro.github.io/)
@@ -150,8 +138,6 @@ Distributions are organized into three different categories: for **beginners**, 
 **Latest version:** Not applicable (Rolling Release system)
 
 **Default Desktop Environment:** XFCE, KDE
-
-**Screenshot:**
 
 ![default look](http://distrowatch.com/images/cgfjoewdlbc/manjaro.png)
 
@@ -164,8 +150,6 @@ It also offers a rolling release version called Tumbleweed for experienced users
 
 **Default Desktop Environment:** KDE, GNOME, XFCE, LXDE (Choose on installation)
 
-**Screenshot:**
-
 ![default look](http://distrowatch.com/images/cgfjoewdlbc/opensuse.png)
 
 ### Advanced
@@ -177,8 +161,6 @@ It also offers a rolling release version called Tumbleweed for experienced users
 **Latest version:** Not applicable (Rolling Release system)
 
 **Default Desktop Environment:** Not applicable (there's no default Desktop environment)
-
-**Screenshot:** Not applicable (there's no default look)
 
 ### Special Purpose
 

@@ -80,7 +80,7 @@ There are currently no proposed rules for adding content to this section because
 
 ## Applications
 
-Added applications should be regularly updated. If the application's last update was over 6 month ago, it will not be added. They should also be usable and fairly stable at the time of adding them.
+Added applications should be regularly updated. They should also be usable and fairly stable at the time of adding them.
 
 To add applications to other GUI-based applications sub-section, follow this guide:
 

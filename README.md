@@ -308,25 +308,46 @@ The list of awesome Linux applications that you should be using.
 * [Polari](https://wiki.gnome.org/Apps/Polari) - IRC client built to be easy to use.
 * [To Do](https://wiki.gnome.org/Apps/Todo) - Minimalistic personal task manager designed to fit right into your GNOME desktop.
 
-For more GNOME apps, visit: https://wiki.gnome.org/Apps
+For more GNOME-based apps, visit: https://wiki.gnome.org/Apps
 
 #### Pantheon-based
 
 * [FeedReader](https://jangernert.github.io/FeedReader/) - RSS desktop client able to integrate with multiple online services.
-* [Vocal](http://vocalproject.net/) - Podcast client for the modern desktop.
-* [Spice-Up](https://github.com/Philip-Scott/Spice-up) - Desktop presentation app
+* [Go For It!](http://manuel-kehl.de/projects/go-for-it/) - To-do list with built-in productivity timer.
 * [NaSC](http://parnold-x.github.io/nasc/) - Intelligent calculator app.
+* [Spice-Up](https://github.com/Philip-Scott/Spice-up) - Desktop presentation app
+* [Vocal](http://vocalproject.net/) - Podcast client for the modern desktop.
+
+For more Pantheon-based apps, visit [elementary-apps](https://quassy.github.io/elementary-apps/).
 
 #### KDE-based
 
 * [Dolphin File Manager](https://userbase.kde.org/Dolphin) - File manager for KDE focusing on usability.
+* [Krita](https://krita.org/en/) - Painting program.
 
-To add new content to this section, please refer to the `CONTRIBUTING.md` file.
+For more KDE-based apps, visit: https://www.kde.org/applications/
 
 #### Not based on any desktop environment
 
+* [Atom](https://atom.io) - Hackable text editor for the 21st century.
+* [ghostwriter](http://wereturtle.github.io/ghostwriter/) - Distraction-free Markdown editor.
 * [GParted](http://gparted.sourceforge.net/) - The most popular disk partitioning software out there.
+* [Kodi](https://kodi.tv/) - Most popular entertainment center.
 * [Zathura](https://pwmt.org/projects/zathura/) - Highly customizable document viewer. It provides a minimalistic and space saving interface as well as an easy usage that mainly focuses on keyboard interaction.
+
+#### Third-party clients for online services
+
+> **Q:** Why third-party apps? Why not the official clients?
+>
+> **A:** Because, in 99% of the cases, official clients are proprietary.
+
+* [Corebird](http://corebird.baedert.org/) - Twitter client.
+* [GNOME Twitch](http://gnome-twitch.vinszent.com/) - Twitch player.
+* [Caprine](https://github.com/sindresorhus/caprine/) - Facebook's Messenger client with some added privacy features.
+* [PB for Desktop](https://github.com/sidneys/pb-for-desktop) - Pushbullet client.
+* [ramme](https://github.com/terkelg/ramme) - Instagram client.
+* [ScudCloud](https://github.com/raelgc/scudcloud/) - Slack client with additional features (compared to the original Slack client).
+* [Whatever](https://github.com/CellarD0-0r/whatever) - Evernote client based on the web version.
 
 To add new content to this section, please refer to the `CONTRIBUTING.md` file.
 
@@ -334,11 +355,11 @@ To add new content to this section, please refer to the `CONTRIBUTING.md` file.
 
 Distro-oriented:
 
-* [Y PPA Manager](https://launchpad.net/y-ppa-manager) (Ubuntu) - Search for packages in Launchpad PPAs.
-* [pirut](http://fedoraproject.org/wiki/Tools/pirut) (Fedora) - pirut provides a set of graphical tools for managing software.
-* [Synaptics](http://www.nongnu.org/synaptic/) (Debian and `.deb` users) - A graphical package management program for `apt`. Provides the same features as the apt-get command line utility with a GUI front-end.
-* [YaST](https://en.opensuse.org/YaST_Software_Management) (openSUSE) - The main package management tool on openSUSE.
-* [YumEx](https://fedorahosted.org/yumex/) (Fedora) - A GUI for the dnf package manager.
+* [Y PPA Manager](https://launchpad.net/y-ppa-manager) (Ubuntu) - Manage PPAs and search for packages.
+* [pirut](http://fedoraproject.org/wiki/Tools/pirut) (Fedora) - Provides a set of graphical tools for managing software.
+* [Synaptics](http://www.nongnu.org/synaptic/) (Debian and `.deb` users) - Graphical package management program for `apt`.
+* [YaST](https://en.opensuse.org/YaST_Software_Management) (openSUSE) - Main package management tool on openSUSE.
+* [YumEx](https://fedorahosted.org/yumex/) (Fedora) - A GUI for the `dnf` package manager.
 * [Yaourt](https://wiki.archlinux.org/index.php/Yaourt) (Arch) - A wrapper for `pacman` which adds automated access to the AUR using the same syntax as pacman.
 * [Aura](https://github.com/aurapm/aura) (Arch) - Secure, multilingual package manager.
 
@@ -357,12 +378,13 @@ Distro-independent:
 * [photorec](http://www.cgsecurity.org/wiki/PhotoRec) - Useful tool for restoring deleted files.
 * [ranger](https://github.com/ranger/ranger) - Vim-inspired file manager for the console.
 * [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal.
-* [speed-test](https://github.com/sindresorhus/speed-test) - Test your Internet connection speed and ping using [speedtest.net](http://www.speedtest.net/) from the CLI.
+* [speed-test](https://github.com/sindresorhus/speed-test) - Test your Internet connection speed and ping using [speedtest.net](http://www.speedtest.net/).
 * [testdisk](http://www.cgsecurity.org/wiki/TestDisk) - A tool for disk partition recovery.
 * [tig](http://jonas.nitro.dk/tig/) - Text-mode interface for git. It functions mainly as a Git repository browser.
 * [vim](http://vim.org) - Advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set.
 * [vtop](https://parall.ax/vtop) - Easily-extendable activity monitor.
 * [wavemon](https://github.com/uoaerg/wavemon) - Monitoring application for wireless network devices.
+* [youtube-dl](https://github.com/rg3/youtube-dl) - A tool to download videos from YouTube and other video sites.
 
 ## Useful Websites
 

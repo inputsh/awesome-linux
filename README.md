@@ -279,6 +279,8 @@ If you used Windows and decided to switch to Linux, this course should help you 
 
 The list of awesome Linux applications that you should be using.
 
+If you're looking for some pro-tips for your favorite text editor, you might be interested in [awesome-atom](https://github.com/mehcode/awesome-atom), [sublime-bookmarks](https://github.com/dreikanter/sublime-bookmarks), [vim-galore](https://github.com/mhinz/vim-galore), [awesome-emacs](https://github.com/emacs-tw/awesome-emacs), or [awesome-vscode](https://github.com/viatsko/awesome-vscode).
+
 ### GUI-based Applications
 
 #### GNOME-based
@@ -349,6 +351,8 @@ Distro-independent:
 * [AppImageKit](https://github.com/probonopd/AppImageKit) - Using AppImageKit you can package applications in the [AppImage](http://appimage.org/) format that runs on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one app = one file.
 
 ### Console-based Applications
+
+You might also be interested in checking out [awesome-shell](https://github.com/alebcay/awesome-shell), [awesome-bash](https://github.com/awesome-lists/awesome-bash), [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) or [awesome-fish](https://github.com/jbucaran/awesome-fish).
 
 * [cmus](https://cmus.github.io/) - Small, fast and powerful console music player.
 * [fuck](https://github.com/nvbn/thefuck) - Command line tool which corrects your previously mistyped command.

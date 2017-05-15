@@ -166,27 +166,27 @@ It also offers a rolling release version called Tumbleweed for experienced users
 
 #### [CoreOS](https://coreos.com/)
 
-> CoreOS is a Linux-based operating system for servers. Built from the ground up and designed primarily for the modern data centre, CoreOS provides specialist tools for making the system secure, reliable and up-to-date. Some of the more interesting features of the distribution include reliable updates and patches via FastPatch, a dashboard for managing rolling updates via CoreUpdate, a docker for packaging applications, as well as support for bare metal and many cloud providers.
-
 **Specialty:** Clusters
+
+> CoreOS is a Linux-based operating system for servers. Built from the ground up and designed primarily for the modern data centre, CoreOS provides specialist tools for making the system secure, reliable and up-to-date. Some of the more interesting features of the distribution include reliable updates and patches via FastPatch, a dashboard for managing rolling updates via CoreUpdate, a docker for packaging applications, as well as support for bare metal and many cloud providers.
 
 #### [Kali Linux](http://www.kali.org/)
 
-> Kali Linux (formerly known as BackTrack) is a Debian-based distribution with a collection of security and forensics tools. It features timely security updates, support for the ARM architecture, a choice of four popular desktop environments, and seamless upgrades to newer versions.
-
 **Specialty:** Penetration testing
+
+> Kali Linux (formerly known as BackTrack) is a Debian-based distribution with a collection of security and forensics tools. It features timely security updates, support for the ARM architecture, a choice of four popular desktop environments, and seamless upgrades to newer versions.
 
 #### [Puppy Linux](http://puppylinux.org/)
 
-> Puppy Linux is yet another Linux distribution. What's different here is that Puppy is extraordinarily small, yet quite full-featured. Puppy boots into a ramdisk and, unlike live CD distributions that have to keep pulling stuff off the CD, it loads into RAM. This means that all applications start in the blink of an eye and respond to user input instantly. Puppy Linux has the ability to boot off a flash card or any USB memory device, CDROM, Zip disk or LS/120/240 Superdisk, floppy disks, internal hard drive. It can even use a multisession formatted CD-RW/DVD-RW to save everything back to the CD/DVD with no hard drive required at all.
-
 **Specialty:** Low system requirements
+
+> Puppy Linux is yet another Linux distribution. What's different here is that Puppy is extraordinarily small, yet quite full-featured. Puppy boots into a ramdisk and, unlike live CD distributions that have to keep pulling stuff off the CD, it loads into RAM. This means that all applications start in the blink of an eye and respond to user input instantly. Puppy Linux has the ability to boot off a flash card or any USB memory device, CDROM, Zip disk or LS/120/240 Superdisk, floppy disks, internal hard drive. It can even use a multisession formatted CD-RW/DVD-RW to save everything back to the CD/DVD with no hard drive required at all.
 
 #### [Ubuntu Studio](http://ubuntustudio.org/)
 
-> Ubuntu Studio is a variant of Ubuntu aimed at the GNU/Linux audio, video and graphic enthusiast as well as professional. The distribution provides a collection of open-source applications available for multimedia creation.
-
 **Specialty:** Multimedia creation
+
+> Ubuntu Studio is a variant of Ubuntu aimed at the GNU/Linux audio, video and graphic enthusiast as well as professional. The distribution provides a collection of open-source applications available for multimedia creation.
 
 ## Learning Resources
 

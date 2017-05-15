@@ -246,12 +246,12 @@ If you used Windows and decided to switch to Linux, this course should help you 
 
 #### Other Desktop Environments
 
-* [Cinnamon](http://cinnamon.linuxmint.com/) - Cinnamon strives to provide a traditional user experience. Cinnamon is a fork of GNOME 3.
-* [EDE](http://www.equinox-project.org/) - EDE is a small desktop environment built to be responsive, light in resource usage and to have a familiar look and feel.
-* [LXQt](http://lxqt.org/) - LXQt is the Qt port and the upcoming version of LXDE, the Lightweight Desktop Environment. It is the product of the merge between the LXDE-Qt and the Razor-qt projects: A lightweight, modular, blazing-fast and user-friendly desktop environment.
-* [MATE](http://www.mate-desktop.org/) - Mate provides an intuitive and attractive desktop to Linux users using traditional metaphors. MATE is a fork of GNOME 2.
-* [Pantheon](https://elementary.io) - Pantheon is the default desktop environment originally created for the elementary OS distribution. It is written from scratch using Vala and the GTK3 toolkit. With regards to usability and appearance, the desktop has some similarities with GNOME Shell and Mac OS X.
-* [Unity](http://unity.ubuntu.com/) - Unity is a shell for GNOME designed by Canonical for Ubuntu.
+* [Cinnamon](http://cinnamon.linuxmint.com/) - Strives to provide a traditional user experience.
+* [EDE](http://www.equinox-project.org/) - Small desktop environment built to be responsive, light in resource usage and to have a familiar look and feel.
+* [LXQt](http://lxqt.org/) - Qt port and the upcoming version of LXDE, the Lightweight Desktop Environment. It is the product of the merge between the LXDE-Qt and the Razor-qt projects: A lightweight, modular, blazing-fast and user-friendly desktop environment.
+* [MATE](http://www.mate-desktop.org/) - Provides an intuitive and attractive desktop to Linux users using traditional metaphors. Fork of GNOME 2.
+* [Pantheon](https://elementary.io) - Pantheon is the default desktop environment originally created for the elementary OS distribution. The desktop has some similarities with GNOME Shell and macOS.
+* [Unity](http://unity.ubuntu.com/) - Soon-to-be-deprecated DE designed by Canonical for Ubuntu. Based on GNOME.
 
 ## X Windows Managers
 
@@ -285,9 +285,9 @@ If you're looking for some pro-tips for your favorite text editor, you might be 
 
 #### GNOME-based
 
-* [Builder](https://wiki.gnome.org/Apps/Builder) - Builder is an IDE for GNOME that is focused on bringing the power of the GNOME platform to more developers than ever before.
+* [Builder](https://wiki.gnome.org/Apps/Builder) - IDE for GNOME that is focused on bringing the power of the GNOME platform to more developers.
 * [Evince](https://wiki.gnome.org/Apps/Evince) - The most popular document viewer on the GNOME platform.
-* [Gedit](https://wiki.gnome.org/Apps/Gedit) - Gedit is the GNOME text editor. While aiming at simplicity and ease of use, gedit is a powerful general purpose text editor.
+* [Gedit](https://wiki.gnome.org/Apps/Gedit) - Powerful general purpose text editor.
 * [Polari](https://wiki.gnome.org/Apps/Polari) - IRC client built to be easy to use.
 * [To Do](https://wiki.gnome.org/Apps/Todo) - Minimalistic personal task manager designed to fit right into your GNOME desktop.
 
@@ -298,7 +298,7 @@ For more GNOME-based apps, visit: https://wiki.gnome.org/Apps
 * [FeedReader](https://jangernert.github.io/FeedReader/) - RSS desktop client able to integrate with multiple online services.
 * [Go For It!](http://manuel-kehl.de/projects/go-for-it/) - To-do list with built-in productivity timer.
 * [NaSC](http://parnold-x.github.io/nasc/) - Intelligent calculator app.
-* [Spice-Up](https://github.com/Philip-Scott/Spice-up) - Desktop presentation app
+* [Spice-Up](https://github.com/Philip-Scott/Spice-up) - Desktop presentation app.
 * [Vocal](http://vocalproject.net/) - Podcast client for the modern desktop.
 
 For more Pantheon-based apps, visit [elementary-apps](https://quassy.github.io/elementary-apps/).
@@ -332,8 +332,6 @@ For more KDE-based apps, visit: https://www.kde.org/applications/
 * [ScudCloud](https://github.com/raelgc/scudcloud/) - Slack client with additional features (compared to the original Slack client).
 * [Whatever](https://github.com/CellarD0-0r/whatever) - Evernote client based on the web version.
 
-To add new content to this section, please refer to the `CONTRIBUTING.md` file.
-
 #### Package management and creation tools
 
 Distro-oriented:
@@ -356,7 +354,7 @@ You might also be interested in checking out [awesome-shell](https://github.com/
 
 * [cmus](https://cmus.github.io/) - Small, fast and powerful console music player.
 * [fuck](https://github.com/nvbn/thefuck) - Command line tool which corrects your previously mistyped command.
-* [git](https://git-scm.com/) -  Free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+* [git](https://git-scm.com/) - Distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 * [glances](https://nicolargo.github.io/glances/) - Cross-platform system monitoring tool.
 * [htop](http://hisham.hm/htop/) - Nice looking, customizable task manager.
 * [nano](http://www.nano-editor.org) - Simple to use text editor.

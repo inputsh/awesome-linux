@@ -63,7 +63,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 > elementary OS is an Ubuntu-based desktop distribution. Some of its more interesting features include a custom desktop environment called Pantheon and many custom apps including Photos, Music, Videos, Calendar, Terminal, Files, and more. It also comes with some familiar apps like the Midori web browser and Geary mail.
 
-**Latest version:** elementary OS Loki (0.4)
+**Latest version:** elementary OS Loki (0.4.1)
 
 **Default Desktop Environment:** Pantheon
 
@@ -83,7 +83,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 > Linux Mint is an Ubuntu-based distribution whose goal is to provide a more complete out-of-the-box experience by including browser plugins, media codecs, support for DVD playback, Java and other components. It also adds a custom desktop and menus, several unique configuration tools, and a web-based package installation interface. Linux Mint is compatible with Ubuntu software repositories.
 
-**Latest version:** Linux Mint Sarah (18)
+**Latest version:** Linux Mint Serena (18.1)
 
 **Default Desktop Environment:** Cinnamon and MATE
 
@@ -115,7 +115,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 > The Debian Project is an association of individuals who have made common cause to create a free operating system. This operating system is called Debian GNU/Linux, or simply Debian for short. Debian systems currently use the Linux kernel. [...] Debian comes with over 50,000 packages (precompiled software that is bundled up in a nice format for easy installation on your machine) - all of it free. It's a bit like a tower. At the base is the kernel. On top of that are all the basic tools. Next is all the software that you run on the computer. At the top of the tower is Debian -- carefully organizing and fitting everything so it all works together.
 
-**Latest version:** Debian Jessie (8.6)
+**Latest version:** Debian Jessie (8.8)
 
 **Default Desktop Environment:** GNOME
 
@@ -125,7 +125,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 > Mageia is a fork of Mandriva Linux formed in September 2010 by former employees and contributors to the popular French Linux distribution. Unlike Mandriva, which is a commercial entity, the Mageia project is a community project and a non-profit organisation whose goal is to develop a free Linux-based operating system.
 
-**Latest version:** Mageia 5
+**Latest version:** Mageia 5.1
 
 **Default Desktop Environment:** KDE
 
@@ -146,7 +146,7 @@ Distributions are organized into three different categories: for **beginners**, 
 > The openSUSE project is a community program sponsored by SUSE Linux and other companies. Promoting the use of Linux everywhere, this program provides free, easy access to openSUSE, a complete Linux distribution. The openSUSE project has three main goals: make openSUSE the easiest Linux for anyone to obtain and the most widely used Linux distribution; leverage open source collaboration to make openSUSE the world's most usable Linux distribution and desktop environment for new and experienced Linux users; dramatically simplify and open the development and packaging processes to make openSUSE the platform of choice for Linux developers and software vendors.
 It also offers a rolling release version called Tumbleweed for experienced users.
 
-**Latest version:** openSUSE Leap 42.1 and openSUSE Tumbleweed (Rolling Release system)
+**Latest version:** openSUSE Leap 42.2 and openSUSE Tumbleweed (Rolling Release system)
 
 **Default Desktop Environment:** KDE, GNOME, XFCE, LXDE (Choose on installation)
 

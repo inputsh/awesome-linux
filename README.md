@@ -204,6 +204,10 @@ Good book that teaches you the basics of Debian GNU/Linux administration. - [@el
 
 > It covers all the topics that a competent Linux administrator should master, from the installation, update of the system, up to the creation of packages and the compilation of the kernel, but also monitoring, backup and migration. Plus advanced topics to secure services, automated installations, or virtualization.
 
+#### Bash Shell Scripting [[FREE](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)]
+
+> Currently this book provides an introduction level knowledge of Bash.
+
 ### Courses
 
 #### [Introduction to Linux (LFS101x.2)](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS101x.2+1T2015/info) [Free]

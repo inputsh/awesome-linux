@@ -73,7 +73,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 > Fedora (formerly Fedora Core) is a Linux distribution developed by the community-supported Fedora Project and owned by Red Hat. Fedora contains software distributed under a free and open-source license and aims to be on the leading edge of such technologies. Fedora has a reputation for focusing on innovation, integrating new technologies early on and working closely with upstream Linux communities. The default desktop in Fedora is the GNOME desktop environment and the default interface is the GNOME Shell. Other desktop environments, including KDE, Xfce, LXDE, MATE and Cinnamon, are available. Fedora Project also distributes custom variations of Fedora called Fedora spins. These are built with specific sets of software packages, offering alternative desktop environments or targeting specific interests such as gaming, security, design, scientific computing and robotics.
 
-**Latest version:** Fedora Twenty Five (25)
+**Latest version:** Fedora Twenty Six (26)
 
 **Default Desktop Environment:** GNOME
 
@@ -83,7 +83,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 > Linux Mint is an Ubuntu-based distribution whose goal is to provide a more complete out-of-the-box experience by including browser plugins, media codecs, support for DVD playback, Java and other components. It also adds a custom desktop and menus, several unique configuration tools, and a web-based package installation interface. Linux Mint is compatible with Ubuntu software repositories.
 
-**Latest version:** Linux Mint Serena (18.1)
+**Latest version:** Linux Mint Sonya (18.2)
 
 **Default Desktop Environment:** Cinnamon and MATE
 
@@ -125,7 +125,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 > Mageia is a fork of Mandriva Linux formed in September 2010 by former employees and contributors to the popular French Linux distribution. Unlike Mandriva, which is a commercial entity, the Mageia project is a community project and a non-profit organisation whose goal is to develop a free Linux-based operating system.
 
-**Latest version:** Mageia 5.1
+**Latest version:** Mageia 6
 
 **Default Desktop Environment:** KDE
 
@@ -146,7 +146,7 @@ Distributions are organized into three different categories: for **beginners**, 
 > The openSUSE project is a community program sponsored by SUSE Linux and other companies. Promoting the use of Linux everywhere, this program provides free, easy access to openSUSE, a complete Linux distribution. The openSUSE project has three main goals: make openSUSE the easiest Linux for anyone to obtain and the most widely used Linux distribution; leverage open source collaboration to make openSUSE the world's most usable Linux distribution and desktop environment for new and experienced Linux users; dramatically simplify and open the development and packaging processes to make openSUSE the platform of choice for Linux developers and software vendors.
 It also offers a rolling release version called Tumbleweed for experienced users.
 
-**Latest version:** openSUSE Leap 42.2 and openSUSE Tumbleweed (Rolling Release system)
+**Latest version:** openSUSE Leap 42.3 and openSUSE Tumbleweed (Rolling Release system)
 
 **Default Desktop Environment:** KDE, GNOME, XFCE, LXDE (Choose on installation)
 

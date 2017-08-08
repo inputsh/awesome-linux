@@ -26,6 +26,7 @@
     * [openSUSE](#opensuse)
   * [Advanced](#advanced)
     * [Arch Linux](#arch-linux)
+    * [NixOS Linux](#nixos-linux)
   * [Special Purpose](#special-purpose)
     * [CoreOS](#coreos)
     * [Kali Linux](#kali-linux)
@@ -161,6 +162,14 @@ It also offers a rolling release version called Tumbleweed for experienced users
 **Latest version:** Not applicable (Rolling Release system)
 
 **Default Desktop Environment:** Not applicable (there's no default Desktop environment)
+
+#### [NixOS Linux](https://www.nixos.org/)
+
+> NixOS is a Linux distribution with a unique approach to package and configuration management. Built on top of the Nix package manager, it is completely declarative, makes upgrading systems reliable, and has many other advantages. NixOS has a completely declarative approach to configuration management. NixOS has atomic upgrades and rollbacks. It’s always safe to try an upgrade or configuration change. Declarative specs and safe upgrades make NixOS a great system for DevOps use.
+
+**Latest version:** NixOS 17.03 “Gorilla”
+
+**Default Desktop Environment:** KDE's Plasma 5
 
 ### Special Purpose
 

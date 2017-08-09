@@ -348,7 +348,7 @@ Distro-independent:
 
 * [AppImageKit](https://github.com/probonopd/AppImageKit) - Using AppImageKit you can package applications in the [AppImage](http://appimage.org/) format that runs on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one app = one file.
 
-### Console-based Applications
+### Console-based Applications and Tools
 
 You might also be interested in checking out [awesome-shell](https://github.com/alebcay/awesome-shell), [awesome-bash](https://github.com/awesome-lists/awesome-bash), [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) or [awesome-fish](https://github.com/jbucaran/awesome-fish).
 
@@ -361,6 +361,7 @@ You might also be interested in checking out [awesome-shell](https://github.com/
 * [photorec](http://www.cgsecurity.org/wiki/PhotoRec) - Useful tool for restoring deleted files.
 * [ranger](https://github.com/ranger/ranger) - Vim-inspired file manager for the console.
 * [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal.
+* [shellcheck](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts.
 * [speed-test](https://github.com/sindresorhus/speed-test) - Test your Internet connection speed and ping using [speedtest.net](http://www.speedtest.net/).
 * [testdisk](http://www.cgsecurity.org/wiki/TestDisk) - A tool for disk partition recovery.
 * [tig](http://jonas.nitro.dk/tig/) - Text-mode interface for git. It functions mainly as a Git repository browser.

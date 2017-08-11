@@ -115,7 +115,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 > The Debian Project is an association of individuals who have made common cause to create a free operating system. This operating system is called Debian GNU/Linux, or simply Debian for short. Debian systems currently use the Linux kernel. [...] Debian comes with over 50,000 packages (precompiled software that is bundled up in a nice format for easy installation on your machine) - all of it free. It's a bit like a tower. At the base is the kernel. On top of that are all the basic tools. Next is all the software that you run on the computer. At the top of the tower is Debian -- carefully organizing and fitting everything so it all works together.
 
-**Latest version:** Debian Jessie (8.8)
+**Latest version:** Debian Stretch (9.1)
 
 **Default Desktop Environment:** GNOME
 

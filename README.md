@@ -218,7 +218,7 @@ Organized by the Linux Foundation, it's a great free course to learn basics abou
 
 If you used Windows and decided to switch to Linux, this course should help you to find their alternatives. It's pretty short and you can finish it in a day. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
 
-### Articles
+### Bash Learning Resources
 
 * [Beautiful Bash: Let's make reading and writing bash scripts fun again!](https://www.slideshare.net/a_z_e_t/inpresentation)
 * [Best Practices for Writing Bash Scripts](http://kvz.io/blog/2013/11/21/bash-best-practices/)

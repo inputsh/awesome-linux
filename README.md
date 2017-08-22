@@ -191,7 +191,7 @@ It also offers a rolling release version called Tumbleweed for experienced users
 
 #### [Tails](https://tails.boum.org/index.en.html)
 
-**Specialty:** Privacy for anyone anywhere
+**Specialty:** Incognito live system
 
 > Tails is a live system that aims to preserve your privacy and anonymity. It helps you to use the Internet anonymously and circumvent censorship almost anywhere you go and on any computer but leaving no trace unless you ask it to explicitly. It is a complete operating system designed to be used from a USB stick or a DVD independently of the computer's original operating system. It is Free Software and based on Debian GNU/Linux. Tails comes with several built-in applications pre-configured with security in mind: web browser, instant messaging client, email client, office suite, image and sound editor, etc.
 

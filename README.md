@@ -31,6 +31,7 @@
     * [Kali Linux](#kali-linux)
     * [Puppy Linux](#puppy-linux)
     * [Ubuntu Studio](#ubuntu-studio)
+    * [Tails](#tails)
 * [Learning Resources](#learning-resources)
   * [Books](#books)
   * [Courses](#courses)
@@ -187,6 +188,12 @@ It also offers a rolling release version called Tumbleweed for experienced users
 **Specialty:** Multimedia creation
 
 > Ubuntu Studio is a variant of Ubuntu aimed at the GNU/Linux audio, video and graphic enthusiast as well as professional. The distribution provides a collection of open-source applications available for multimedia creation.
+
+#### [Tails](https://tails.boum.org/index.en.html)
+
+**Specialty:** Incognito live system
+
+> Tails is a live system that aims to preserve your privacy and anonymity. It helps you to use the Internet anonymously and circumvent censorship almost anywhere you go and on any computer but leaving no trace unless you ask it to explicitly. It is a complete operating system designed to be used from a USB stick or a DVD independently of the computer's original operating system. It is Free Software and based on Debian GNU/Linux. Tails comes with several built-in applications pre-configured with security in mind: web browser, instant messaging client, email client, office suite, image and sound editor, etc.
 
 ## Learning Resources
 

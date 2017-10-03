@@ -400,7 +400,7 @@ You might also be interested in checking out [awesome-shell](https://github.com/
 
  > Find better alternatives to the software you already use or a replacement for software you cannot or do not want to use.
 
-#### [Linux Foundation](http://linuxfoundation.org)
+#### [Linux Foundation](https://www.linuxfoundation.org/)
 
 > The Linux Foundation is a non-profit consortium dedicated to fostering the growth of Linux. Founded in 2000, The Linux Foundation sponsors the work of Linux creator Linus Torvalds and is supported by leading Linux and open source companies and developers from around the world.
 
@@ -425,8 +425,6 @@ Although its design is outdated, Linux.org is (probably) the most popular forum 
 #### [Linux.die](https://linux.die.net/)
 
 > Linux.die is a resource with documentation, tutorials, books, etc in Linux.
-
-
 
 ## License
 

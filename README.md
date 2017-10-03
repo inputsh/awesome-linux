@@ -230,6 +230,9 @@ If you used Windows and decided to switch to Linux, this course should help you 
 * [Best Practices for Writing Bash Scripts](http://kvz.io/blog/2013/11/21/bash-best-practices/)
 * [Shell Style Guide](https://google.github.io/styleguide/shell.xml)
 * [Linux Fu: Better Bash Scripting](https://hackaday.com/2017/07/21/linux-fu-better-bash-scripting/)
+* [Bash Guide for Beginners](https://linux.die.net/Bash-Beginners-Guide/)
+* [Advanced Bash-Scripting Guide](https://linux.die.net/abs-guide/)
+
 
 ## X Desktop Environments
 
@@ -397,7 +400,7 @@ You might also be interested in checking out [awesome-shell](https://github.com/
 
  > Find better alternatives to the software you already use or a replacement for software you cannot or do not want to use.
 
-#### [Linux Foundation](www.linuxfoundation.org)
+#### [Linux Foundation](http://linuxfoundation.org)
 
 > The Linux Foundation is a non-profit consortium dedicated to fostering the growth of Linux. Founded in 2000, The Linux Foundation sponsors the work of Linux creator Linus Torvalds and is supported by leading Linux and open source companies and developers from around the world.
 
@@ -418,6 +421,12 @@ Although its design is outdated, Linux.org is (probably) the most popular forum 
 > Opensource.com is an online publication focused on how open source is applied to different areas including business, education, government, health, law and other disciplines of life.
 
 > Our goal is to further the open source way by sharing the open source movement. Our community of readers is made up of those who believe that open participation and sharing can tackle the business, social, environmental, and technological challenges facing us today.
+
+#### [Linux.die](https://linux.die.net/)
+
+> Linux.die is a resource with documentation, tutorials, books, etc in Linux.
+
+
 
 ## License
 

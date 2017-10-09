@@ -275,25 +275,26 @@ If you used Windows and decided to switch to Linux, this course should help you 
 
 ## X Windows Managers
 
-* [9wm](http://unauthorised.org/dhog/9wm.html) - X window manager which attempts to emulate the Plan 9 window manager 8-1/2 as far as possible within the constraints imposed by X.
+* [9wm](http://unauthorised.org/dhog/9wm.html) - Window manager that attempts to emulate the Plan 9 window manager 8-1/2 as far as possible within the constraints imposed by X.
 * [awesome](https://awesomewm.org/) - Highly configurable window manager for X. Fast and extensible.
-* [Blackbox](http://blackboxwm.sourceforge.net/) - Fast, lightweight window manager for the X Window System, without annoying library dependencies. Built with C++.
+* [Blackbox](http://blackboxwm.sourceforge.net/) - Lightweight window manager for the X window system, without library dependencies. Built using C++.
 * [bspwm](https://github.com/baskerville/bspwm) - Tiling window manager that represents windows as the leaves of a full binary tree.
 * [Compiz](https://launchpad.net/compiz) - OpenGL compositing window manager. It has a plug-in system to be changed at runtime.
-* [dwm](http://dwm.suckless.org/) - Dynamic window manager for X. It manages windows in tiled, monocle and floating layouts. All of the layouts can be applied dynamically, optimising the environment for the application in use and the task performed.
-* [Enlightenment](http://www.enlightenment.org/) - Not just a window manager for X11 and others, but also a whole suite of libraries to help you create beautiful user interfaces with much less work than doing it the old fashioned way and fighting with traditional toolkits.
-* [Fluxbox](http://www.fluxbox.org/) - Window manager for X that was based on the Blackbox 0.61.1 code. Very light on resources and easy to handle but yet full of features to make an easy, and extremely fast, desktop experience. Built using C++. MIT-licensed.
-* [FVWM](http://fvwm.org/) - Extremely powerful ICCCM-compliant multiple virtual desktop window manager for the X  Window system.
-* [i3](http://i3wm.org/) - Tiling window manager. The target platforms are GNU/Linux and BSD operating systems. BSD-licensed. Primarily targeted at advanced users and developers.
-* [IceWM](http://www.icewm.org/) - Window manager with the goal of being fast, simple, and not getting in the user's way
-* [JWM](http://www.joewing.net/projects/jwm/) - Lightweight window manager for X11. Written in C and uses only Xlib at a minimum. Good choice for older and/or less powerful systems, such as the Raspberry Pi, though it is perfectly capable of running on modern systems.
-* [Matchbox](https://www.yoctoproject.org/tools-resources/projects/matchbox) - Base environment for X running on non-desktop embedded platforms such as handhelds, set-top boxes, kiosks and anything else for which screen space, input mechanisms or system resources are limited.
+* [dwm](http://dwm.suckless.org/) - Dynamic window manager for X. It manages windows in tiled, monocle and floating layouts. All of the layouts can be applied dynamically, optimising the environment for the application and task performed.
+* [Enlightenment](http://www.enlightenment.org/) - Window manager bundled with a whole suite of libraries to help you create beautiful user interfaces.
+* [Fluxbox](http://www.fluxbox.org/) - Window manager for X, lightweight and easy to handle but full of features to make an easy and fast desktop experience. Built using C++.
+* [FVWM](http://fvwm.org/) - ICCCM-compliant multiple virtual desktop window manager for X. Extremely powerful.
+* [i3](http://i3wm.org/) - Tiling window manager. BSD-licensed. Primarily targeted at advanced users and developers.
+* [IceWM](http://www.icewm.org/) - Window manager with the goal of being fast, simple, and not getting in the user's way.
+* [JWM](http://www.joewing.net/projects/jwm/) - Lightweight window manager for X11. Good choice for older and/or less powerful systems, though perfectly capable of running on modern systems. Built using C.
+* [Matchbox](https://www.yoctoproject.org/tools-resources/projects/matchbox) - Environment for X running on non-desktop embedded platforms such as handhelds, set-top boxes, kiosks and anything else for which screen space, input mechanisms or system resources are limited.
 * [Mutter](https://download.gnome.org/sources/mutter/) - Window manager for X. Default window manager in GNOME 3.
 * [Openbox](http://openbox.org/wiki/Main_Page) - Highly configurable window manager with extensive standards support.
-* [ratpoison](http://www.nongnu.org/ratpoison/) - A simple window manager with no fat library dependencies, no fancy graphics, no window decorations, and no rodent dependence. It is largely modeled after GNU Screen which has done wonders in the virtual terminal market.
-* [Sawfish](http://sawfish.tuxfamily.org/) - An extensible window manager using Lisp-based scripting language. Its policy is very minimal compared to most window managers. Its aim is simply to manage windows in the most flexible and attractive manner possible.
-* [wmii](https://code.google.com/p/wmii/) - A small, scriptable window manager, with a 9P filesystem interface and an acme-like layout.
-* [xmonad](http://xmonad.org/) - Dynamically tiling X11 window manager that is written and configured in Haskell. In a normal WM, you spend half your time aligning and searching for windows. xmonad makes work easier, by automating this.
+* [ratpoison](http://www.nongnu.org/ratpoison/) - A simple window manager with no library dependencies, no graphics, and no decorations. Modeled after GNU Screen.
+* [Sawfish](http://sawfish.tuxfamily.org/) - Extensible window manager. Its aim is to manage windows in the most flexible and attractive manner possible. Built using Lisp-based scripting language.
+* [wmii](https://code.google.com/p/wmii/) - Small, scriptable window manager, with a 9P filesystem interface and an acme-like layout.
+* [xmonad](http://xmonad.org/) - Dynamically tiling X11 window manager. Makes work easier by automating aligning and searching for windows. Built using Haskell.
+
 
 ## Applications
 

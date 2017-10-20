@@ -94,11 +94,11 @@ Distributions are organized into three different categories: for **beginners**, 
 
 > Ubuntu is a complete desktop Linux operating system, freely available with both community and professional support. The Ubuntu community is built on the ideas enshrined in the Ubuntu Manifesto: that software should be available free of charge, that software tools should be usable by people in their local language and despite any disabilities, and that people should have the freedom to customise and alter their software in whatever way they see fit. "Ubuntu" is an ancient African word, meaning "humanity to others". The Ubuntu distribution brings the spirit of Ubuntu to the software world. 
 
-**Latest version:** Ubuntu 17.04
+**Latest version:** Ubuntu 17.10
 
-**Default Desktop Environment:** Unity
+**Default Desktop Environment:** GNOME
 
-![default look](http://distrowatch.com/images/screenshots/ubuntu-15.10.png)
+![default look](http://distrowatch.com/images/screenshots/ubuntu-17.10.png)
 
 ### Intermediate
 

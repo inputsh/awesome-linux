@@ -427,6 +427,10 @@ Although its design is outdated, Linux.org is (probably) the most popular forum 
 
 > Linux.die is a resource with documentation, tutorials, books, etc in Linux.
 
+#### [Linode Documentation Library](https://linode.com/docs/)
+
+> The Linode documentation library offers thousands of free Linux tutorials.
+
 ## License
 
 This repository is licensed under the [Do What the Fuck You Want to Public License](http://www.wtfpl.net/). Its full content is located in the `LICENSE` file.

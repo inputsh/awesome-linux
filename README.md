@@ -216,7 +216,7 @@ Good book that teaches you the basics of Debian GNU/Linux administration. - [@el
 
 ### Courses
 
-#### [Introduction to Linux (LFS101x.2)](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS101x.2+1T2015/info) [Free]
+#### [Introduction to Linux (LFS101x-1)](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1) [Free]
 
 Organized by the Linux Foundation, it's a great free course to learn basics about Linux. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
 

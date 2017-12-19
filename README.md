@@ -50,7 +50,7 @@
     * [Not based on any desktop environment](#not-based-on-any-desktop-environment)
     * [Third-party clients for online services](#third-party-clients-for-online-services)
     * [Package management and creation tools](#distro-based-package-management-tools)
-  * [Console-based Applications](#console-based-applications)
+  * [Console-based Applications and Tools](#console-based-applications-and-tools)
 * [Useful Websites](#useful-websites)
 * [License](#license)
 

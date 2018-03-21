@@ -287,7 +287,7 @@ If you used Windows and decided to switch to Linux, this course should help you 
 * [i3](http://i3wm.org/) - Tiling window manager. BSD-licensed. Primarily targeted at advanced users and developers.
 * [IceWM](http://www.icewm.org/) - Window manager with the goal of being fast, simple, and not getting in the user's way.
 * [JWM](http://www.joewing.net/projects/jwm/) - Lightweight window manager for X11. Good choice for older and/or less powerful systems, though perfectly capable of running on modern systems. Built using C.
-* [Matchbox](https://www.yoctoproject.org/tools-resources/projects/matchbox) - Environment for X running on non-desktop embedded platforms such as handhelds, set-top boxes, kiosks and anything else for which screen space, input mechanisms or system resources are limited.
+* [Matchbox](https://www.yoctoproject.org/software-item/matchbox/) - Environment for X running on non-desktop embedded platforms such as handhelds, set-top boxes, kiosks and anything else for which screen space, input mechanisms or system resources are limited.
 * [Mutter](https://download.gnome.org/sources/mutter/) - Window manager for X. Default window manager in GNOME 3.
 * [Openbox](http://openbox.org/wiki/Main_Page) - Highly configurable window manager with extensive standards support.
 * [ratpoison](http://www.nongnu.org/ratpoison/) - A simple window manager with no library dependencies, no graphics, and no decorations. Modeled after GNU Screen.

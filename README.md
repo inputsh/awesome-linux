@@ -32,6 +32,7 @@
     * [Puppy Linux](#puppy-linux)
     * [Ubuntu Studio](#ubuntu-studio)
     * [Tails](#tails)
+    * [BackBox Linux](#backbox-linux)
 * [Learning Resources](#learning-resources)
   * [Books](#books)
   * [Courses](#courses)
@@ -194,6 +195,12 @@ Distributions are organized into three different categories: for **beginners**, 
 
 > Tails is a live system that aims to preserve your privacy and anonymity. It helps you to use the Internet anonymously and circumvent censorship almost anywhere you go and on any computer but leaving no trace unless you ask it to explicitly. It is a complete operating system designed to be used from a USB stick or a DVD independently of the computer's original operating system. It is Free Software and based on Debian GNU/Linux. Tails comes with several built-in applications pre-configured with security in mind: web browser, instant messaging client, email client, office suite, image and sound editor, etc.
 
+#### [BackBox Linux](https://backbox.org/)
+
+**Specialty:** Penetration testing
+
+> BackBox is a penetration test and security assessment oriented Ubuntu-based Linux distribution providing a network and informatic systems analysis toolkit. BackBox desktop environment includes a complete set of tools required for ethical hacking and security testing.
+
 ## Learning Resources
 
 ### Books
@@ -213,6 +220,10 @@ Good book that teaches you the basics of Debian GNU/Linux administration. - [@el
 #### Bash Shell Scripting [[FREE](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)]
 
 > Currently this book provides an introduction level knowledge of Bash.
+
+#### Red Hat Enterprise Linux [[FREE](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/)]
+
+> Red Hat offers a guides for the System/Network/Kernel Administrations, Security, Virtualization and other stuff related to their products. All guides are thorough, they are teaching you from basic stuff to advanced and they are available in various formats (PDF, ePub, HTML).
 
 ### Courses
 

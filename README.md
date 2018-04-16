@@ -427,6 +427,10 @@ Although its design is outdated, Linux.org is (probably) the most popular forum 
 
 > Linux.die is a resource with documentation, tutorials, books, etc in Linux.
 
+#### [Curated Linux Resources](https://hackr.io/tutorials/learn-linux-system-administration)
+
+> Top learning resources recommended by developers.
+
 ## License
 
 This repository is licensed under the [Do What the Fuck You Want to Public License](http://www.wtfpl.net/). Its full content is located in the `LICENSE` file.

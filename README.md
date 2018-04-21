@@ -427,6 +427,26 @@ Although its design is outdated, Linux.org is (probably) the most popular forum 
 
 > Linux.die is a resource with documentation, tutorials, books, etc in Linux.
 
+## Podcasts
+
+
+#### [Going Linux](http://goinglinux.com/)
+
+> Going Linux is for computer users who just want to use Linux to get things done.
+
+#### [Late Night Linux](https://latenightlinux.com/)
+
+> Late Night Linux is a podcast that takes a look at what’s happening with Linux and the wider tech industry.
+
+#### [Linux Action Show](http://www.jupiterbroadcasting.com/show/linuxactionshow/)
+
+> The worlds #1 Linux podcast. A weekly show that covers the best in the open source and Linux world. Get a solid dose of Linux, gadgets, howto, reviews, and news every week!
+
+#### [Linux Unplugged](http://www.jupiterbroadcasting.com/show/linuxun/)
+
+> The Linux Action Show with no prep, no limits, and tons of opinion. An open show powered by community LINUX Unplugged takes the best attributes of open collaboration and focuses them into a weekly lifestyle show about Linux.
+
+
 ## License
 
 This repository is licensed under the [Do What the Fuck You Want to Public License](http://www.wtfpl.net/). Its full content is located in the `LICENSE` file.

@@ -32,6 +32,7 @@
     * [Puppy Linux](#puppy-linux)
     * [Ubuntu Studio](#ubuntu-studio)
     * [Tails](#tails)
+    * [Qubes](#qubes)
 * [Learning Resources](#learning-resources)
   * [Books](#books)
   * [Courses](#courses)

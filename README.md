@@ -74,31 +74,31 @@ Distributions are organized into three different categories: for **beginners**, 
 
 > Fedora (formerly Fedora Core) is a Linux distribution developed by the community-supported Fedora Project and owned by Red Hat. Fedora contains software distributed under a free and open-source license and aims to be on the leading edge of such technologies. Fedora has a reputation for focusing on innovation, integrating new technologies early on and working closely with upstream Linux communities. The default desktop in Fedora is the GNOME desktop environment and the default interface is the GNOME Shell. Other desktop environments, including KDE, Xfce, LXDE, MATE and Cinnamon, are available. Fedora Project also distributes custom variations of Fedora called Fedora spins. These are built with specific sets of software packages, offering alternative desktop environments or targeting specific interests such as gaming, security, design, scientific computing and robotics.
 
-**Latest version:** Fedora Twenty Seven (27)
+**Latest version:** Fedora Twenty Eight (28)
 
 **Default Desktop Environment:** GNOME
 
-![default look](http://distrowatch.com/images/cgfjoewdlbc/fedora.png)
+![default look](https://distrowatch.com/images/cgfjoewdlbc/fedora.png)
 
 #### [Linux Mint](http://linuxmint.com/)
 
 > Linux Mint is an Ubuntu-based distribution whose goal is to provide a more complete out-of-the-box experience by including browser plugins, support for DVD playback, Java and other components. It also adds a custom desktop and menus, several unique configuration tools, and a web-based package installation interface. Linux Mint is compatible with Ubuntu software repositories.
 
-**Latest version:** Linux Mint Sonya (18.2)
+**Latest version:** Linux Mint Sylvia (18.3)
 
 **Default Desktop Environment:** Cinnamon and MATE
 
-![default look](http://distrowatch.com/images/cgfjoewdlbc/mint.png)
+![default look](https://distrowatch.com/images/cgfjoewdlbc/mint.png)
 
 #### [Ubuntu](http://www.ubuntu.com/)
 
 > Ubuntu is a complete desktop Linux operating system, freely available with both community and professional support. The Ubuntu community is built on the ideas enshrined in the Ubuntu Manifesto: that software should be available free of charge, that software tools should be usable by people in their local language and despite any disabilities, and that people should have the freedom to customise and alter their software in whatever way they see fit. "Ubuntu" is an ancient African word, meaning "humanity to others". The Ubuntu distribution brings the spirit of Ubuntu to the software world. 
 
-**Latest version:** Ubuntu 17.10
+**Latest version:** Ubuntu 18.04
 
 **Default Desktop Environment:** GNOME
 
-![default look](http://distrowatch.com/images/screenshots/ubuntu-17.10.png)
+![default look](https://distrowatch.com/images/cgfjoewdlbc/ubuntu.png)
 
 ### Intermediate
 

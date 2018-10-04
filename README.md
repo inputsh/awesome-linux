@@ -338,6 +338,7 @@ For more KDE-based apps, visit: https://www.kde.org/applications/
 * [GParted](http://gparted.sourceforge.net/) - The most popular disk partitioning software out there.
 * [Kodi](https://kodi.tv/) - Most popular entertainment center.
 * [Zathura](https://pwmt.org/projects/zathura/) - Highly customizable document viewer. It provides a minimalistic and space saving interface as well as an easy usage that mainly focuses on keyboard interaction.
+* [Etcher](https://etcher.io/) - Flash OS images to SD cards and USB drives, safely and easily. 
 
 #### Third-party clients for online services
 

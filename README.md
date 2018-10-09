@@ -156,7 +156,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 #### [Arch Linux](https://www.archlinux.org/)
 
-> Arch Linux is an independently developed, i686- and x86_64-optimised Linux distribution targeted at competent Linux users. It uses 'pacman', its home-grown package manager, to provide updates to the latest software applications with full dependency tracking. Operating on a rolling release system, Arch can be installed from a CD image or via an FTP server. The default install provides a solid base that enables users to create a custom installation. In addition, the Arch Build System (ABS) provides a way to easily build new packages, modify the configuration of stock packages, and share these packages with other users via the Arch Linux user repository.
+> Arch Linux is an independently developed, x86_64-optimised Linux distribution targeted at competent Linux users. It uses 'pacman', its home-grown package manager, to provide updates to the latest software applications with full dependency tracking. Operating on a rolling release system, Arch can be installed from a CD image or via an FTP server. The default install provides a solid base that enables users to create a custom installation. In addition, the Arch Build System (ABS) provides a way to easily build new packages, modify the configuration of stock packages, and share these packages with other users via the Arch Linux user repository.
 
 **Latest version:** Not applicable (Rolling Release system)
 

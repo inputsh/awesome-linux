@@ -362,7 +362,7 @@ Distro-oriented:
 * [Synaptics](http://www.nongnu.org/synaptic/) (Debian and `.deb` users) - Graphical package management program for `apt`.
 * [YaST](https://en.opensuse.org/YaST_Software_Management) (openSUSE) - Main package management tool on openSUSE.
 * [YumEx](https://fedorahosted.org/yumex/) (Fedora) - A GUI for the `dnf` package manager.
-* [Yaourt](https://wiki.archlinux.org/index.php/Yaourt) (Arch) - A wrapper for `pacman` which adds automated access to the AUR using the same syntax as pacman.
+* [Yay](https://github.com/Jguer/yay) (Arch) - Yay is one of the many wrappers to `pacman` which automatically downloads and installs packages from AUR, a full list can be found [here](https://wiki.archlinux.org/index.php/AUR_helpers).
 * [Aura](https://github.com/aurapm/aura) (Arch) - Secure, multilingual package manager.
 
 Distro-independent:

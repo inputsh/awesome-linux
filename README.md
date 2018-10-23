@@ -64,11 +64,11 @@ Distributions are organized into three different categories: for **beginners**, 
 
 > elementary OS is an Ubuntu-based desktop distribution. Some of its more interesting features include a custom desktop environment called Pantheon and many custom apps including Photos, Music, Videos, Calendar, Terminal, Files, and more. It also comes with some familiar apps like the Epiphany web browser and a fork of Geary mail. 
 
-**Latest version:** elementary OS Loki (0.4.1)
+**Latest version:** elementary OS Juno (5.0)
 
 **Default Desktop Environment:** Pantheon
 
-![default look](http://distrowatch.com/images/cgfjoewdlbc/elementary.png)
+![default look](https://elementary.io/images/screenshots/desktop.jpg)
 
 #### [Fedora](https://getfedora.org/)
 
@@ -84,7 +84,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 > Linux Mint is an Ubuntu-based distribution whose goal is to provide a more complete out-of-the-box experience by including browser plugins, support for DVD playback, Java and other components. It also adds a custom desktop and menus, several unique configuration tools, and a web-based package installation interface. Linux Mint is compatible with Ubuntu software repositories.
 
-**Latest version:** Linux Mint Sylvia (18.3)
+**Latest version:** Linux Mint Tara (19)
 
 **Default Desktop Environment:** Cinnamon and MATE
 
@@ -94,7 +94,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 > Ubuntu is a complete desktop Linux operating system, freely available with both community and professional support. The Ubuntu community is built on the ideas enshrined in the Ubuntu Manifesto: that software should be available free of charge, that software tools should be usable by people in their local language and despite any disabilities, and that people should have the freedom to customise and alter their software in whatever way they see fit. "Ubuntu" is an ancient African word, meaning "humanity to others". The Ubuntu distribution brings the spirit of Ubuntu to the software world. 
 
-**Latest version:** Ubuntu 18.04
+**Latest version:** Ubuntu 18.10
 
 **Default Desktop Environment:** GNOME
 
@@ -116,7 +116,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 > The Debian Project is an association of individuals who have made common cause to create a free operating system. This operating system is called Debian. Debian systems currently use the Linux kernel. Linux is a completely free piece of software started by Linus Torvalds and supported by thousands of programmers worldwide. Of course, the thing that people want is application software: programs to help them get what they want to do done, from editing documents to running a business to playing games to writing more software. Debian comes with over 50,000 packages (precompiled software that is bundled up in a nice format for easy installation on your machine) - all of it free. It's a bit like a tower. At the base is the kernel. On top of that are all the basic tools. Next is all the software that you run on the computer. At the top of the tower is Debian -- carefully organizing and fitting everything so it all works together. 
 
-**Latest version:** Debian Stretch (9.1)
+**Latest version:** Debian Stretch (9.5)
 
 **Default Desktop Environment:** GNOME
 

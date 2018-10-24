@@ -370,6 +370,10 @@ Distro-independent:
 
 * [AppImageKit](https://github.com/probonopd/AppImageKit) - Using AppImageKit you can package applications in the [AppImage](http://appimage.org/) format that runs on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one app = one file.
 
+Repository hosting:
+
+* [Cloudsmith](https://cloudsmith.io) - A fully managed package management SaaS with support for Alpine Linux, Debian Linux and RedHat Linux (and many others); useful if you need to publicly or privately host Linux-based packages, or distribute them to world. Has a generous free tier and is also free for open-source.
+
 ### Console-based Applications and Tools
 
 You might also be interested in checking out [awesome-shell](https://github.com/alebcay/awesome-shell), [awesome-bash](https://github.com/awesome-lists/awesome-bash), [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) or [awesome-fish](https://github.com/jbucaran/awesome-fish).

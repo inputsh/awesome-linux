@@ -132,7 +132,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 ![default look](http://distrowatch.com/images/cgfjoewdlbc/mageia.png)
 
-#### [Manjaro](https://manjaro.github.io/)
+#### [Manjaro](https://manjaro.org/)
 
 > Manjaro Linux is a fast, user-friendly, desktop-oriented operating system based on Arch Linux. Key features include intuitive installation process, automatic hardware detection, stable rolling-release model, ability to install multiple kernels, special Bash scripts for managing graphics drivers and extensive desktop configurability. Manjaro Linux offers Xfce as the core desktop options, as well as a minimalist Net edition for more advanced users. Community-supported GNOME 3/Cinnamon and KDE flavours are available. Users also benefit from the supportive and vibrant Manjaro community forum.
 

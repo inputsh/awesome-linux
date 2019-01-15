@@ -84,7 +84,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 > Linux Mint is an Ubuntu-based distribution whose goal is to provide a more complete out-of-the-box experience by including browser plugins, support for DVD playback, Java and other components. It also adds a custom desktop and menus, several unique configuration tools, and a web-based package installation interface. Linux Mint is compatible with Ubuntu software repositories.
 
-**Latest version:** Linux Mint Tara (19)
+**Latest version:** Linux Mint Tessa (19.1)
 
 **Default Desktop Environment:** Cinnamon and MATE
 
@@ -106,7 +106,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 > CentOS as a group is a community of open source contributors and users. Typical CentOS users are organisations and individuals that do not need strong commercial support in order to achieve successful operation. CentOS is 100% compatible rebuild of the Red Hat Enterprise Linux, in full compliance with Red Hat's redistribution requirements. CentOS is for people who need an enterprise class operating system stability without the cost of certification and support.
 
-**Latest version:** CentOS 7.1611
+**Latest version:** CentOS 7.1810
 
 **Default Desktop Environment:** GNOME
 
@@ -116,7 +116,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 > The Debian Project is an association of individuals who have made common cause to create a free operating system. This operating system is called Debian. Debian systems currently use the Linux kernel. Linux is a completely free piece of software started by Linus Torvalds and supported by thousands of programmers worldwide. Of course, the thing that people want is application software: programs to help them get what they want to do done, from editing documents to running a business to playing games to writing more software. Debian comes with over 50,000 packages (precompiled software that is bundled up in a nice format for easy installation on your machine) - all of it free. It's a bit like a tower. At the base is the kernel. On top of that are all the basic tools. Next is all the software that you run on the computer. At the top of the tower is Debian -- carefully organizing and fitting everything so it all works together. 
 
-**Latest version:** Debian Stretch (9.5)
+**Latest version:** Debian Stretch (9.6)
 
 **Default Desktop Environment:** GNOME
 
@@ -126,7 +126,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 > Mageia is a fork of Mandriva Linux formed in September 2010 by former employees and contributors to the popular French Linux distribution. Unlike Mandriva, which is a commercial entity, the Mageia project is a community project and a non-profit organisation whose goal is to develop a free Linux-based operating system.
 
-**Latest version:** Mageia 6
+**Latest version:** Mageia 6.1
 
 **Default Desktop Environment:** KDE
 
@@ -136,7 +136,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 > Manjaro Linux is a fast, user-friendly, desktop-oriented operating system based on Arch Linux. Key features include intuitive installation process, automatic hardware detection, stable rolling-release model, ability to install multiple kernels, special Bash scripts for managing graphics drivers and extensive desktop configurability. Manjaro Linux offers Xfce as the core desktop options, as well as a minimalist Net edition for more advanced users. Community-supported GNOME 3/Cinnamon and KDE flavours are available. Users also benefit from the supportive and vibrant Manjaro community forum.
 
-**Latest version:** Not applicable (Rolling Release system)
+**Latest version:** Manjaro 18.0.2
 
 **Default Desktop Environment:** XFCE, KDE
 
@@ -146,7 +146,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 > The openSUSE project is a community program sponsored by SUSE Linux and other companies. Promoting the use of Linux everywhere, this program provides free, easy access to openSUSE, a complete Linux distribution. The openSUSE project has three main goals: make openSUSE the easiest Linux for anyone to obtain and the most widely used Linux distribution; leverage open source collaboration to make openSUSE the world's most usable Linux distribution and desktop environment for new and experienced Linux users; dramatically simplify and open the development and packaging processes to make openSUSE the platform of choice for Linux developers and software vendors. 
 
-**Latest version:** openSUSE Leap 42.3 and openSUSE Tumbleweed (Rolling Release system)
+**Latest version:** openSUSE Leap 15.0 and openSUSE Tumbleweed (Rolling Release system)
 
 **Default Desktop Environment:** KDE, GNOME, XFCE, LXDE (Choose on installation)
 
@@ -198,13 +198,13 @@ Distributions are organized into three different categories: for **beginners**, 
 
 ### Books
 
-#### [The Linux Command Line](https://www.goodreads.com/book/show/11724436-the-linux-command-line) [4.34] [[FREE](http://linuxcommand.org/tlcl.php)]
+#### [The Linux Command Line](https://www.goodreads.com/book/show/11724436-the-linux-command-line) [4.36] [[FREE](http://linuxcommand.org/tlcl.php)]
 
 This is a great introduction to the Linux command line. - [@4iar](https://github.com/4iar/)
 
 > You've experienced the shiny, point-and-click surface of your Linux computer—now dive below and explore its depths with the power of the command line.
 
-#### [The Debian Administrator's Handbook, Debian Wheezy from Discovery to Mastery](https://www.goodreads.com/book/show/20839133-the-debian-administrator-s-handbook-debian-wheezy-from-discovery-to-mas) [4.8] [[FREE](https://debian-handbook.info/get/now/)]
+#### [The Debian Administrator's Handbook, Debian Wheezy from Discovery to Mastery](https://www.goodreads.com/book/show/20839133-the-debian-administrator-s-handbook-debian-wheezy-from-discovery-to-mas) [4.83] [[FREE](https://debian-handbook.info/get/now/)]
 
 Good book that teaches you the basics of Debian GNU/Linux administration. - [@elninosi](https://github.com/elninosi)
 
@@ -266,12 +266,11 @@ If you used Windows and decided to switch to Linux, this course should help you 
 
 #### Other Desktop Environments
 
-* [Cinnamon](http://cinnamon.linuxmint.com/) - Strives to provide a traditional user experience.
-* [EDE](http://www.equinox-project.org/) - Small desktop environment built to be responsive, light in resource usage and to have a familiar look and feel.
+* [Cinnamon](http://developer.linuxmint.com/projects/cinnamon-projects.html) - Strives to provide a traditional user experience.
+* [EDE](https://edeproject.org/) - Small desktop environment built to be responsive, light in resource usage and to have a familiar look and feel.
 * [LXQt](http://lxqt.org/) - Qt port and the upcoming version of LXDE, the Lightweight Desktop Environment. It is the product of the merge between the LXDE-Qt and the Razor-qt projects: A lightweight, modular, blazing-fast and user-friendly desktop environment.
 * [MATE](http://www.mate-desktop.org/) - Provides an intuitive and attractive desktop to Linux users using traditional metaphors. Fork of GNOME 2.
 * [Pantheon](https://elementary.io) - Pantheon is the default desktop environment originally created for the elementary OS distribution. The desktop has some similarities with GNOME Shell and macOS.
-* [Unity](http://unity.ubuntu.com/) - Soon-to-be-deprecated DE designed by Canonical for Ubuntu. Based on GNOME.
 
 ## X Windows Managers
 
@@ -285,7 +284,7 @@ If you used Windows and decided to switch to Linux, this course should help you 
 * [Fluxbox](http://www.fluxbox.org/) - Window manager for X, lightweight and easy to handle but full of features to make an easy and fast desktop experience. Built using C++.
 * [FVWM](http://fvwm.org/) - ICCCM-compliant multiple virtual desktop window manager for X. Extremely powerful.
 * [i3](http://i3wm.org/) - Tiling window manager. BSD-licensed. Primarily targeted at advanced users and developers.
-* [IceWM](http://www.icewm.org/) - Window manager with the goal of being fast, simple, and not getting in the user's way.
+* [IceWM](https://ice-wm.org/) - Window manager with the goal of being fast, simple, and not getting in the user's way.
 * [JWM](http://www.joewing.net/projects/jwm/) - Lightweight window manager for X11. Good choice for older and/or less powerful systems, though perfectly capable of running on modern systems. Built using C.
 * [Matchbox](https://www.yoctoproject.org/software-item/matchbox/) - Environment for X running on non-desktop embedded platforms such as handhelds, set-top boxes, kiosks and anything else for which screen space, input mechanisms or system resources are limited.
 * [Mutter](https://download.gnome.org/sources/mutter/) - Window manager for X. Default window manager in GNOME 3.
@@ -335,10 +334,10 @@ For more KDE-based apps, visit: https://www.kde.org/applications/
 
 * [Atom](https://atom.io) - Hackable text editor for the 21st century.
 * [ghostwriter](http://wereturtle.github.io/ghostwriter/) - Distraction-free Markdown editor.
-* [GParted](http://gparted.sourceforge.net/) - The most popular disk partitioning software out there.
+* [GParted](https://gparted.sourceforge.io/) - The most popular disk partitioning software out there.
 * [Kodi](https://kodi.tv/) - Most popular entertainment center.
 * [Zathura](https://pwmt.org/projects/zathura/) - Highly customizable document viewer. It provides a minimalistic and space saving interface as well as an easy usage that mainly focuses on keyboard interaction.
-* [Etcher](https://etcher.io/) - Flash OS images to SD cards and USB drives, safely and easily. 
+* [Etcher](https://www.balena.io/etcher/) - Flash OS images to SD cards and USB drives, safely and easily. 
 
 #### Third-party clients for online services
 
@@ -362,7 +361,7 @@ Distro-oriented:
 * [pirut](http://fedoraproject.org/wiki/Tools/pirut) (Fedora) - Provides a set of graphical tools for managing software.
 * [Synaptics](http://www.nongnu.org/synaptic/) (Debian and `.deb` users) - Graphical package management program for `apt`.
 * [YaST](https://en.opensuse.org/YaST_Software_Management) (openSUSE) - Main package management tool on openSUSE.
-* [YumEx](https://fedorahosted.org/yumex/) (Fedora) - A GUI for the `dnf` package manager.
+* [dnfdragora](https://github.com/manatools/dnfdragora) (Fedora) - A GUI for the `dnf` package manager.
 * [Yay](https://github.com/Jguer/yay) (Arch) - Yay is one of the many wrappers to `pacman` which automatically downloads and installs packages from AUR, a full list can be found [here](https://wiki.archlinux.org/index.php/AUR_helpers).
 * [Aura](https://github.com/aurapm/aura) (Arch) - Secure, multilingual package manager.
 
@@ -386,9 +385,9 @@ You might also be interested in checking out [awesome-shell](https://github.com/
 * [shellcheck](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts.
 * [speed-test](https://github.com/sindresorhus/speed-test) - Test your Internet connection speed and ping using [speedtest.net](http://www.speedtest.net/).
 * [testdisk](http://www.cgsecurity.org/wiki/TestDisk) - A tool for disk partition recovery.
-* [tig](http://jonas.nitro.dk/tig/) - Text-mode interface for git. It functions mainly as a Git repository browser.
+* [tig](https://github.com/jonas/tig) - Text-mode interface for git. It functions mainly as a Git repository browser.
 * [vim](http://vim.org) - Advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set.
-* [vtop](https://parall.ax/vtop) - Easily-extendable activity monitor.
+* [vtop](https://github.com/MrRio/vtop) - Easily-extendable activity monitor.
 * [wavemon](https://github.com/uoaerg/wavemon) - Monitoring application for wireless network devices.
 * [youtube-dl](https://github.com/rg3/youtube-dl) - A tool to download videos from YouTube and other video sites.
 

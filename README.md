@@ -427,6 +427,9 @@ Although its design is outdated, Linux.org is (probably) the most popular forum 
 
 > Linux.die is a resource with documentation, tutorials, books, etc in Linux.
 
+#### [pkgs.org](https://pkgs.org)
+
+> The pkgs.org is created to provide you with the simplest method of searching and downloading the newest versions of the Linux packages without the usual excessive popups or spyware.
 ## License
 
 This repository is licensed under the [Do What the Fuck You Want to Public License](http://www.wtfpl.net/). Its full content is located in the `LICENSE` file.

@@ -294,6 +294,12 @@ If you used Windows and decided to switch to Linux, this course should help you 
 * [wmii](https://code.google.com/p/wmii/) - Small, scriptable window manager, with a 9P filesystem interface and an acme-like layout.
 * [xmonad](http://xmonad.org/) - Dynamically tiling X11 window manager. Makes work easier by automating aligning and searching for windows. Built using Haskell.
 
+## Wayland Compositors
+
+* [weston](https://wayland.freedesktop.org/) - Weston is the reference implementation of a Wayland compositor. Weston can run as an X client or under Linux KMS and ships with a few demo clients.
+* [sway](https://swaywm.org/) - Sway is a tiling Wayland compositor and a drop-in replacement for the i3 window manager for X11. It works with your existing i3 configuration and supports most of i3's features, plus a few extras. 
+* [way-cooler](http://way-cooler.org/) - Way Cooler is a tiling Wayland window manager, written in Rust, configurable using Lua, and extendable with D-Bus.
+
 
 ## Applications
 

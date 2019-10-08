@@ -42,6 +42,7 @@
   * [LXDE](#lxde)
   * [Other Desktop Environments](#other-desktop-environments)
 * [X Windows Managers](#x-windows-managers)
+* [Wayland Compositors](#wayland-compositors)
 * [Applications](#applications)
   * [GUI-based Applications](#gui-based-applications)
     * [GNOME-based](#gnome-based)

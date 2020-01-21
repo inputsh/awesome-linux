@@ -26,6 +26,7 @@
     * [openSUSE](#opensuse)
   * [Advanced](#advanced)
     * [Arch Linux](#arch-linux)
+    * [NixOS](#nixos)
   * [Special Purpose](#special-purpose)
     * [CoreOS](#coreos)
     * [Kali Linux](#kali-linux)
@@ -159,6 +160,14 @@ Distributions are organized into three different categories: for **beginners**, 
 > Arch Linux is an independently developed, x86_64-optimised Linux distribution targeted at competent Linux users. It uses 'pacman', its home-grown package manager, to provide updates to the latest software applications with full dependency tracking. Operating on a rolling release system, Arch can be installed from a CD image or via an FTP server. The default install provides a solid base that enables users to create a custom installation. In addition, the Arch Build System (ABS) provides a way to easily build new packages, modify the configuration of stock packages, and share these packages with other users via the Arch Linux user repository.
 
 **Latest version:** Not applicable (Rolling Release system)
+
+**Default Desktop Environment:** Not applicable (there's no default Desktop environment)
+
+#### [NixOS](https://nixos.org/)
+
+> NixOS is a Linux distribution with a unique approach to package and configuration management. Built on top of the Nix package manager, it is completely declarative, makes upgrading systems reliable, and [has many other advantages](https://nixos.org/nixos/about.html). System services and programs are managed with a single declaritive configuration file. NixOS is a notable example of breaking the [Filesystem Hierarchy Standard](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard).
+
+**Latest version:** 19.09 (opt-in unstable channel is Rolling Release)
 
 **Default Desktop Environment:** Not applicable (there's no default Desktop environment)
 

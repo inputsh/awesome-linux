@@ -165,7 +165,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 #### [NixOS](https://nixos.org/)
 
-> NixOS is a Linux distribution with a unique approach to package and configuration management. Built on top of the Nix package manager, it is completely declarative, makes upgrading systems reliable, and [has many other advantages](https://nixos.org/nixos/about.html). System services and programs are managed with a single declaritive configuration file. NixOS is a notable example of breaking the [Filesystem Hierarchy Standard](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard).
+> NixOS is a Linux distribution with a unique approach to package and configuration management. Built on top of the Nix package manager, it is completely declarative, makes upgrading systems reliable, and [has many other advantages](https://nixos.org/nixos/about.html). All system services and programs can be managed with a single declarative configuration file. NixOS is a notable example of breaking the [Filesystem Hierarchy Standard](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard).
 
 **Latest version:** 19.09 (opt-in unstable channel is Rolling Release)
 

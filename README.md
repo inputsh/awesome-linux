@@ -327,6 +327,7 @@ For more Pantheon-based apps, visit [elementary-apps](https://quassy.github.io/e
 
 * [Dolphin](https://userbase.kde.org/Dolphin) - File manager for KDE focusing on usability.
 * [Krita](https://krita.org/en/) - Painting program.
+* [Kdenlive](https://kdenlive.org/en/) - Non-linear video editor.
 
 For more KDE-based apps, visit: https://www.kde.org/applications/
 

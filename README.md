@@ -289,6 +289,7 @@ If you used Windows and decided to switch to Linux, this course should help you 
 * [Matchbox](https://www.yoctoproject.org/software-item/matchbox/) - Environment for X running on non-desktop embedded platforms such as handhelds, set-top boxes, kiosks and anything else for which screen space, input mechanisms or system resources are limited.
 * [Mutter](https://download.gnome.org/sources/mutter/) - Window manager for X. Default window manager in GNOME 3.
 * [Openbox](http://openbox.org/wiki/Main_Page) - Highly configurable window manager with extensive standards support.
+* [Qtile](http://www.qtile.org/) - A full-featured, hackable tiling window manager written and configured in Python.
 * [ratpoison](http://www.nongnu.org/ratpoison/) - A simple window manager with no library dependencies, no graphics, and no decorations. Modeled after GNU Screen.
 * [Sawfish](http://sawfish.tuxfamily.org/) - Extensible window manager. Its aim is to manage windows in the most flexible and attractive manner possible. Built using Lisp-based scripting language.
 * [wmii](https://code.google.com/p/wmii/) - Small, scriptable window manager, with a 9P filesystem interface and an acme-like layout.

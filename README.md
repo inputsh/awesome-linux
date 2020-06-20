@@ -350,7 +350,6 @@ For more KDE-based apps, visit: https://www.kde.org/applications/
 * [Caprine](https://github.com/sindresorhus/caprine/) - Facebook's Messenger client with some added privacy features.
 * [PB for Desktop](https://github.com/sidneys/pb-for-desktop) - Pushbullet client.
 * [ramme](https://github.com/terkelg/ramme) - Instagram client.
-* [ScudCloud](https://github.com/raelgc/scudcloud/) - Slack client with additional features (compared to the original Slack client).
 * [Whatever](https://github.com/CellarD0-0r/whatever) - Evernote client based on the web version.
 
 #### Package management and creation tools

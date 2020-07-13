@@ -338,6 +338,7 @@ For more KDE-based apps, visit: https://www.kde.org/applications/
 * [Kodi](https://kodi.tv/) - Most popular entertainment center.
 * [Zathura](https://pwmt.org/projects/zathura/) - Highly customizable document viewer. It provides a minimalistic and space saving interface as well as an easy usage that mainly focuses on keyboard interaction.
 * [Etcher](https://www.balena.io/etcher/) - Flash OS images to SD cards and USB drives, safely and easily. 
+* [Taskade](https://taskade.com/downloads) - Real-time organization and collaboration platform for remote teams. Taskade is cross-platform with support for collaborative task lists, mind maps, and kanban boards, in one unified workspace.
 
 #### Third-party clients for online services
 

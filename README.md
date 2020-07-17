@@ -26,6 +26,9 @@
     * [openSUSE](#opensuse)
   * [Advanced](#advanced)
     * [Arch Linux](#arch-linux)
+  * [Functional](#functional)
+    * [GNU Guix](#gnu-guix)
+    * [NixOS](#nixos)
   * [Special Purpose](#special-purpose)
     * [CoreOS](#coreos)
     * [Kali Linux](#kali-linux)
@@ -162,6 +165,16 @@ Distributions are organized into three different categories: for **beginners**, 
 
 **Default Desktop Environment:** Not applicable (there's no default Desktop environment)
 
+### Functional
+
+#### [GNU Guix](https://guix.gnu.org/)
+<!--
+> 
+-->
+#### [NixOS](https://nixos.org/)
+<!--
+> 
+-->
 ### Special Purpose
 
 #### [CoreOS](https://coreos.com/)

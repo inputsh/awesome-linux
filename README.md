@@ -51,6 +51,7 @@
     * [Third-party clients for online services](#third-party-clients-for-online-services)
     * [Package management and creation tools](#distro-based-package-management-tools)
   * [Console-based Applications and Tools](#console-based-applications-and-tools)
+    * [Fetch tools](#fetch-tools)
 * [Useful Websites](#useful-websites)
 * [License](#license)
 
@@ -389,6 +390,14 @@ You might also be interested in checking out [awesome-shell](https://github.com/
 * [vtop](https://github.com/MrRio/vtop) - Easily-extendable activity monitor.
 * [wavemon](https://github.com/uoaerg/wavemon) - Monitoring application for wireless network devices.
 * [youtube-dl](https://github.com/rg3/youtube-dl) - A tool to download videos from YouTube and other video sites.
+
+#### Fetch tools
+
+* [Neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+.
+* [ufetch](https://gitlab.com/jschx/ufetch) - Tiny system info for Unix-like operating systems.
+* [AuraFetch](https://gitlab.com/LionessAlana/aurafetch) - An easily editable, super-minimal info script written in bash.
+* [fetch](https://github.com/Phate6660/fetch) - A (WIP) minimalistic, lightning-fast fetch utility written in Rust.
+* [screenfetch](https://github.com/KittyKatt/screenFetch) - The Bash Screenshot Information Tool.
 
 ## Useful Websites
 

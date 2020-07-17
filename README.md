@@ -18,6 +18,7 @@
     * [Fedora](#fedora)
     * [Linux Mint](#linux-mint)
     * [Ubuntu](#ubuntu)
+    * [Deepin](#deepin)
   * [Intermediate](#intermediate)
     * [CentOS](#centos)
     * [Debian GNU/Linux](#debian-gnulinux)
@@ -99,6 +100,16 @@ Distributions are organized into three different categories: for **beginners**, 
 **Default Desktop Environment:** GNOME
 
 ![default look](https://distrowatch.com/images/cgfjoewdlbc/ubuntu.png)
+
+#### [Deepin](https://www.deepin.org/en/)
+
+> deepin (formerly, Deepin, Linux Deepin, Hiweed GNU/Linux) is a Debian-based distribution (it was Ubuntu-based until version 15 released in late 2015) that aims to provide an elegant, user-friendly and reliable operating system. It does not only include the best the open source world has to offer, but it has also created its own desktop environment called DDE or Deepin Desktop Environment which is based on the Qt 5 toolkit. Deepin focuses much of its attention on intuitive design. Its home-grown applications, like Deepin Software Centre, DMusic and DPlayer are tailored to the average user. Being easy to install and use, deepin can be a good Windows alternative for office and home use.
+
+**Latest version:** deepin 15.11
+
+**Default Desktop Environment:** DDE
+
+![default look](https://distrowatch.com/images/cgfjoewdlbc/deepin-small.png)
 
 ### Intermediate
 

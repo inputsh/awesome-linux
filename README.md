@@ -35,6 +35,8 @@
 * [Learning Resources](#learning-resources)
   * [Books](#books)
   * [Courses](#courses)
+  * [BASH](#bash-learning-resources)
+  * [ZSH](#zsh-learning-resources)
 * [X Desktop Environments](#x-desktop-environments)
   * [GNOME](#gnome)
   * [KDE](#kde)
@@ -232,6 +234,15 @@ If you used Windows and decided to switch to Linux, this course should help you 
 * [Linux Fu: Better Bash Scripting](https://hackaday.com/2017/07/21/linux-fu-better-bash-scripting/)
 * [Bash Guide for Beginners](https://linux.die.net/Bash-Beginners-Guide/)
 * [Advanced Bash-Scripting Guide](https://linux.die.net/abs-guide/)
+
+### Zsh Learning Resources
+
+* [Why ZSH is Cooler than your Shell](http://www.slideshare.net/jaguardesignstudio/why-zsh-is-cooler-than-your-shell-16194692)
+* [Outrageously Useful Tips To Master Your Z Shell](http://reasoniamhere.com/2014/01/11/outrageously-useful-tips-to-master-your-z-shell/)
+* [The Text Triumvirate](http://www.drbunsen.org/the-text-triumvirate/) - Seth Brown's tutorial on combining zsh, tmux and vim.
+* The [ZSH Reference Card(pdf)](http://www.bash2zsh.com/zsh_refcard/refcard.pdf) and [zsh-lovers site](http://grml.org/zsh/zsh-lovers.html) are indispensable.
+
+For some cool zsh-plugins, visit [awesome-zsh-plugins-list](https://github.com/unixorn/awesome-zsh-plugins)
 
 
 ## X Desktop Environments

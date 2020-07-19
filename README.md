@@ -385,7 +385,7 @@ You might also be interested in checking out [awesome-shell](https://github.com/
 * [speed-test](https://github.com/sindresorhus/speed-test) - Test your Internet connection speed and ping using [speedtest.net](http://www.speedtest.net/).
 * [testdisk](http://www.cgsecurity.org/wiki/TestDisk) - A tool for disk partition recovery.
 * [tig](https://github.com/jonas/tig) - Text-mode interface for git. It functions mainly as a Git repository browser.
-* [vim](http://vim.org) - Advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set.
+* [vim](https://www.vim.org) - Advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set.
 * [vtop](https://github.com/MrRio/vtop) - Easily-extendable activity monitor.
 * [wavemon](https://github.com/uoaerg/wavemon) - Monitoring application for wireless network devices.
 * [youtube-dl](https://github.com/rg3/youtube-dl) - A tool to download videos from YouTube and other video sites.

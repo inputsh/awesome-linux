@@ -377,6 +377,7 @@ You might also be interested in checking out [awesome-shell](https://github.com/
 * [git](https://git-scm.com/) - Distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 * [glances](https://nicolargo.github.io/glances/) - Cross-platform system monitoring tool.
 * [htop](http://hisham.hm/htop/) - Nice looking, customizable task manager.
+* [kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor.
 * [nano](http://www.nano-editor.org) - Simple to use text editor.
 * [photorec](http://www.cgsecurity.org/wiki/PhotoRec) - Useful tool for restoring deleted files.
 * [ranger](https://github.com/ranger/ranger) - Vim-inspired file manager for the console.

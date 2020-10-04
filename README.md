@@ -88,7 +88,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 **Default Desktop Environment:** Cinnamon and MATE
 
-![default look](https://distrowatch.com/images/cgfjoewdlbc/mint.png)
+![default look](https://distrowatch.com/images/ktyxqzobhgijab/mint.png)
 
 #### [Ubuntu](http://www.ubuntu.com/)
 

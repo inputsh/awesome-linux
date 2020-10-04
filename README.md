@@ -78,7 +78,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 **Default Desktop Environment:** GNOME
 
-![default look](https://distrowatch.com/images/cgfjoewdlbc/fedora.png)
+![default look](https://distrowatch.com/images/ktyxqzobhgijab/fedora.png)
 
 #### [Linux Mint](http://linuxmint.com/)
 

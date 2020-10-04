@@ -98,7 +98,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 **Default Desktop Environment:** GNOME
 
-![default look](https://distrowatch.com/images/cgfjoewdlbc/ubuntu.png)
+![default look](https://distrowatch.com/images/ktyxqzobhgijab/ubuntu.png)
 
 ### Intermediate
 
@@ -110,7 +110,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 **Default Desktop Environment:** GNOME
 
-![default look](http://distrowatch.com/images/cgfjoewdlbc/centos.png)
+![default look](https://distrowatch.com/images/ktyxqzobhgijab/centos.png)
 
 #### [Debian GNU/Linux](https://www.debian.org/)
 
@@ -120,7 +120,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 **Default Desktop Environment:** GNOME
 
-![default look](http://distrowatch.com/images/cgfjoewdlbc/debian.png)
+![default look](https://distrowatch.com/images/ktyxqzobhgijab/debian.png)
 
 #### [Mageia](http://www.mageia.org/)
 
@@ -130,7 +130,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 **Default Desktop Environment:** KDE
 
-![default look](http://distrowatch.com/images/cgfjoewdlbc/mageia.png)
+![default look](https://distrowatch.com/images/ktyxqzobhgijab/mageia.png)
 
 #### [Manjaro](https://manjaro.org/)
 
@@ -140,7 +140,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 **Default Desktop Environment:** XFCE, KDE
 
-![default look](http://distrowatch.com/images/cgfjoewdlbc/manjaro.png)
+![default look](https://distrowatch.com/table.php?distribution=manjaro)
 
 #### [openSUSE](http://www.opensuse.org/)
 
@@ -150,7 +150,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 **Default Desktop Environment:** KDE, GNOME, XFCE, LXDE (Choose on installation)
 
-![default look](http://distrowatch.com/images/cgfjoewdlbc/opensuse.png)
+![default look](https://distrowatch.com/images/ktyxqzobhgijab/opensuse.png)
 
 ### Advanced
 

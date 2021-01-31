@@ -232,6 +232,7 @@ If you used Windows and decided to switch to Linux, this course should help you 
 * [Linux Fu: Better Bash Scripting](https://hackaday.com/2017/07/21/linux-fu-better-bash-scripting/)
 * [Bash Guide for Beginners](https://linux.die.net/Bash-Beginners-Guide/)
 * [Advanced Bash-Scripting Guide](https://linux.die.net/abs-guide/)
+* [How To Make an Awesome Custom Shell with ZSH](https://linuxstans.com/how-to-make-an-awesome-custom-shell-with-zsh/)
 
 
 ## X Desktop Environments

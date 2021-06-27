@@ -64,7 +64,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 > elementary OS is an Ubuntu-based desktop distribution. Some of its more interesting features include a custom desktop environment called Pantheon and many custom apps including Photos, Music, Videos, Calendar, Terminal, Files, and more. It also comes with some familiar apps like the Epiphany web browser and a fork of Geary mail. 
 
-**Latest version:** elementary OS Juno (5.0)
+**Latest version:** elementary OS Hera (5.1)
 
 **Default Desktop Environment:** Pantheon
 
@@ -74,31 +74,31 @@ Distributions are organized into three different categories: for **beginners**, 
 
 > Fedora (formerly Fedora Core) is a Linux distribution developed by the community-supported Fedora Project and owned by Red Hat. Fedora contains software distributed under a free and open-source license and aims to be on the leading edge of such technologies. Fedora has a reputation for focusing on innovation, integrating new technologies early on and working closely with upstream Linux communities. The default desktop in Fedora is the GNOME desktop environment and the default interface is the GNOME Shell. Other desktop environments, including KDE, Xfce, LXDE, MATE and Cinnamon, are available. Fedora Project also distributes custom variations of Fedora called Fedora spins. These are built with specific sets of software packages, offering alternative desktop environments or targeting specific interests such as gaming, security, design, scientific computing and robotics.
 
-**Latest version:** Fedora Twenty Nine (29)
+**Latest version:** Thirty Four (34)
 
-**Default Desktop Environment:** GNOME
+**Default Desktop Environment:** GNOME 40
 
-![default look](https://distrowatch.com/images/cgfjoewdlbc/fedora.png)
+![default look](https://distrowatch.com/images/ktyxqzobhgijab/fedora.png)
 
 #### [Linux Mint](http://linuxmint.com/)
 
 > Linux Mint is an Ubuntu-based distribution whose goal is to provide a more complete out-of-the-box experience by including browser plugins, support for DVD playback, Java and other components. It also adds a custom desktop and menus, several unique configuration tools, and a web-based package installation interface. Linux Mint is compatible with Ubuntu software repositories.
 
-**Latest version:** Linux Mint Tessa (19.1)
+**Latest version:** Linux Mint Uma (20.2)
 
 **Default Desktop Environment:** Cinnamon and MATE
 
-![default look](https://distrowatch.com/images/cgfjoewdlbc/mint.png)
+![default look](https://distrowatch.com/images/ktyxqzobhgijab/mint.png)
 
 #### [Ubuntu](http://www.ubuntu.com/)
 
 > Ubuntu is a complete desktop Linux operating system, freely available with both community and professional support. The Ubuntu community is built on the ideas enshrined in the Ubuntu Manifesto: that software should be available free of charge, that software tools should be usable by people in their local language and despite any disabilities, and that people should have the freedom to customise and alter their software in whatever way they see fit. "Ubuntu" is an ancient African word, meaning "humanity to others". The Ubuntu distribution brings the spirit of Ubuntu to the software world. 
 
-**Latest version:** Ubuntu 18.10
+**Latest version:** Ubuntu 21.04
 
-**Default Desktop Environment:** GNOME
+**Default Desktop Environment:** GNOME 3
 
-![default look](https://distrowatch.com/images/cgfjoewdlbc/ubuntu.png)
+![default look](https://distrowatch.com/images/ktyxqzobhgijab/ubuntu.png)
 
 ### Intermediate
 
@@ -108,19 +108,19 @@ Distributions are organized into three different categories: for **beginners**, 
 
 **Latest version:** CentOS 7.1810
 
-**Default Desktop Environment:** GNOME
+**Default Desktop Environment:** GNOME 3
 
-![default look](http://distrowatch.com/images/cgfjoewdlbc/centos.png)
+![default look](https://distrowatch.com/images/ktyxqzobhgijab/centos.png)
 
 #### [Debian GNU/Linux](https://www.debian.org/)
 
 > The Debian Project is an association of individuals who have made common cause to create a free operating system. This operating system is called Debian. Debian systems currently use the Linux kernel. Linux is a completely free piece of software started by Linus Torvalds and supported by thousands of programmers worldwide. Of course, the thing that people want is application software: programs to help them get what they want to do done, from editing documents to running a business to playing games to writing more software. Debian comes with over 50,000 packages (precompiled software that is bundled up in a nice format for easy installation on your machine) - all of it free. It's a bit like a tower. At the base is the kernel. On top of that are all the basic tools. Next is all the software that you run on the computer. At the top of the tower is Debian -- carefully organizing and fitting everything so it all works together. 
 
-**Latest version:** Debian Stretch (9.6)
+**Latest version:** Debian Buster (10.10)
 
-**Default Desktop Environment:** GNOME
+**Default Desktop Environment:** GNOME 3
 
-![default look](http://distrowatch.com/images/cgfjoewdlbc/debian.png)
+![default look](https://distrowatch.com/images/ktyxqzobhgijab/debian.png)
 
 #### [Mageia](http://www.mageia.org/)
 
@@ -130,7 +130,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 **Default Desktop Environment:** KDE
 
-![default look](http://distrowatch.com/images/cgfjoewdlbc/mageia.png)
+![default look](https://distrowatch.com/images/ktyxqzobhgijab/mageia.png)
 
 #### [Manjaro](https://manjaro.org/)
 
@@ -140,7 +140,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 **Default Desktop Environment:** XFCE, KDE
 
-![default look](http://distrowatch.com/images/cgfjoewdlbc/manjaro.png)
+![default look](https://distrowatch.com/images/ktyxqzobhgijab/manjaro.png)
 
 #### [openSUSE](http://www.opensuse.org/)
 
@@ -150,7 +150,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 **Default Desktop Environment:** KDE, GNOME, XFCE, LXDE (Choose on installation)
 
-![default look](http://distrowatch.com/images/cgfjoewdlbc/opensuse.png)
+![default look](https://distrowatch.com/images/ktyxqzobhgijab/opensuse.png)
 
 ### Advanced
 
@@ -234,7 +234,7 @@ If you used Windows and decided to switch to Linux, this course should help you 
 * [Advanced Bash-Scripting Guide](https://linux.die.net/abs-guide/)
 
 
-## X Desktop Environments
+## Desktop Environments
 
 > You cannot talk about a unified Linux look because there is no such thing.
 
@@ -242,21 +242,21 @@ If you used Windows and decided to switch to Linux, this course should help you 
 
 #### [GNOME](https://www.gnome.org)
 
-> GNOME 3 is an easy and elegant way to use your computer. It is designed to put you in control and bring freedom to everybody. GNOME 3 is developed by the GNOME community, a diverse, international group of contributors that is supported by an independent, non-profit foundation.
+> An easy and elegant way to use your computer, GNOME 40 is designed to help you have the best possible computing experience.
 
-![screenshot](https://www.gnome.org/wp-content/uploads/2015/03/activities-overview-3.16-940x529.png)
+![screenshot](https://www.gnome.org/wp-content/uploads/2021/03/wgo-splash-40.png)
 
 #### [KDE](https://www.kde.org)
 
 > The KDE® Community is an international technology team dedicated to creating a free and user-friendly computing experience, offering an advanced graphical desktop, a wide variety of applications for communication, work, education and entertainment and a platform to easily build new applications upon. We have a strong focus on finding innovative solutions to old and new problems, creating a vibrant atmosphere open for experimentation.
 
-![screenshot](https://www.kde.org/announcements/plasma5.0/screenshots/desktop.png)
+![screenshot](https://kde.org/announcements/plasma/5/5.22.0/plasma.png)
 
 #### [Xfce](http://www.xfce.org/)
 
 > Xfce is a lightweight desktop environment for UNIX-like operating systems. It aims to be fast and low on system resources, while still being visually appealing and user friendly.
 
-![screenshot](https://upload.wikimedia.org/wikipedia/commons/7/71/Xfce-4.4.png)
+![screenshot](https://cdn.xfce.org/about/screenshots/4.16-1.png)
 
 #### [LXDE](http://lxde.org/)
 

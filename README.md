@@ -389,6 +389,7 @@ You might also be interested in checking out [awesome-shell](https://github.com/
 * [vtop](https://github.com/MrRio/vtop) - Easily-extendable activity monitor.
 * [wavemon](https://github.com/uoaerg/wavemon) - Monitoring application for wireless network devices.
 * [youtube-dl](https://github.com/rg3/youtube-dl) - A tool to download videos from YouTube and other video sites.
+* [zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Works across all major shells.
 
 ## Useful Websites
 

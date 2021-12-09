@@ -74,11 +74,11 @@ Distributions are organized into three different categories: for **beginners**, 
 
 > Fedora (formerly Fedora Core) is a Linux distribution developed by the community-supported Fedora Project and owned by Red Hat. Fedora contains software distributed under a free and open-source license and aims to be on the leading edge of such technologies. Fedora has a reputation for focusing on innovation, integrating new technologies early on and working closely with upstream Linux communities. The default desktop in Fedora is the GNOME desktop environment and the default interface is the GNOME Shell. Other desktop environments, including KDE, Xfce, LXDE, MATE and Cinnamon, are available. Fedora Project also distributes custom variations of Fedora called Fedora spins. These are built with specific sets of software packages, offering alternative desktop environments or targeting specific interests such as gaming, security, design, scientific computing and robotics.
 
-**Latest version:** Fedora Twenty Nine (29)
+**Latest version:** Fedora Thirty Five (35)
 
-**Default Desktop Environment:** GNOME
+**Default Desktop Environment:** GNOME (41)
 
-![default look](https://distrowatch.com/images/cgfjoewdlbc/fedora.png)
+![default look](https://distrowatch.com/images/ktyxqzobhgijab/fedora.png)
 
 #### [Linux Mint](http://linuxmint.com/)
 

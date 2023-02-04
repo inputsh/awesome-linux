@@ -224,7 +224,10 @@ Organized by the Linux Foundation, it's a great free course to learn basics abou
 
 If you used Windows and decided to switch to Linux, this course should help you to find their alternatives. It's pretty short and you can finish it in a day. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
 
-### ChatGPT [@sirin-koca](https://github.com/sirin-koca)
+### ChatGPT 
+
+ChatGPT can provide answers and explanations on various Linux topics and commands, making it a valuable resource for learning and improving one's understanding of Linux. [@sirin-koca](https://github.com/sirin-koca)
+
 #### You can use ChatGPT to:
 
 * Research specific Linux commands and their usage. For example, you can ask "How do I use the 'ls' command in Linux?" and ChatGPT will provide a brief explanation and examples.

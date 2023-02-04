@@ -224,6 +224,21 @@ Organized by the Linux Foundation, it's a great free course to learn basics abou
 
 If you used Windows and decided to switch to Linux, this course should help you to find their alternatives. It's pretty short and you can finish it in a day. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
 
+### ChatGPT [@sirin-koca](https://github.com/sirin-koca)
+#### You can use ChatGPT to:
+
+* Research specific Linux commands and their usage. For example, you can ask "How do I use the 'ls' command in Linux?" and ChatGPT will provide a brief explanation and examples.
+
+* Troubleshoot Linux issues. For example, if you are experiencing a problem with a service, you can ask ChatGPT for help identifying and resolving the issue.
+
+* Learn about Linux administration and configuration. For example, you can ask about how to set up a web server or how to configure a firewall.
+
+* Understand the Linux file system and directory structure. For example, you can ask about the difference between a file and a directory and the structure of the file system.
+
+* Get help with scripts written in bash. For example, if you have a script that is not working as expected, you can ask ChatGPT for help with debugging it.
+
+[OpenAI | ChatGPT](https://chat.openai.com/)
+
 ### Bash Learning Resources
 
 * [Beautiful Bash: Let's make reading and writing bash scripts fun again!](https://www.slideshare.net/a_z_e_t/inpresentation)
